@@ -45,6 +45,7 @@ async function boot() {
   OVERVIEW.center = city.city.center;
   OVERVIEW.zoom = city.city.zoom || OVERVIEW.zoom;
   byId = new Map(city.societies.map((s) => [s.id, s]));
+  document.title = `Flat Finder · ${city.city.name}`;
   $('city-pick').replaceChildren(...Object.entries(cities).map(([id, c]) => new Option(c.name, id, false, id === cityId)));
   $('city-pick').onchange = () => { location.search = `?city=${$('city-pick').value}`; };
 

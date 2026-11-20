@@ -1,0 +1,326 @@
+[
+  {
+    "k": "shopping",
+    "name": "Phoenix Citadel Mall (MR 10 / Bypass)",
+    "lat": 22.766,
+    "lng": 75.918
+  },
+  {
+    "k": "shopping",
+    "name": "C21 Mall (AB Road / Vijay Nagar)",
+    "lat": 22.7485,
+    "lng": 75.889
+  },
+  {
+    "k": "shopping",
+    "name": "Treasure Island (TI) Mall (MG Road)",
+    "lat": 22.721,
+    "lng": 75.877
+  },
+  {
+    "k": "shopping",
+    "name": "Malhar Mega Mall (Vijay Nagar)",
+    "lat": 22.7495,
+    "lng": 75.891
+  },
+  {
+    "k": "shopping",
+    "name": "Nexus Indore Central (RNT Marg)",
+    "lat": 22.716,
+    "lng": 75.871
+  },
+  {
+    "k": "shopping",
+    "name": "Chappan Dukan (New Palasia)",
+    "lat": 22.724,
+    "lng": 75.881
+  },
+  {
+    "k": "shopping",
+    "name": "Sarafa Night Food Bazaar (Rajwada)",
+    "lat": 22.718,
+    "lng": 75.855
+  },
+  {
+    "k": "shopping",
+    "name": "Rajwada Market & Heritage Square",
+    "lat": 22.7185,
+    "lng": 75.856
+  },
+  {
+    "k": "shopping",
+    "name": "Bada Sarafa & Cloth Market",
+    "lat": 22.7165,
+    "lng": 75.853
+  },
+  {
+    "k": "shopping",
+    "name": "Sapna Sangeeta Shopping Market",
+    "lat": 22.701,
+    "lng": 75.867
+  },
+  {
+    "k": "shopping",
+    "name": "Nipania High Street Market",
+    "lat": 22.763,
+    "lng": 75.912
+  },
+  {
+    "k": "shopping",
+    "name": "Rau Main Market",
+    "lat": 22.628,
+    "lng": 75.805
+  },
+  {
+    "k": "hospital",
+    "name": "Bombay Hospital Indore (Vijay Nagar)",
+    "lat": 22.7595,
+    "lng": 75.8965
+  },
+  {
+    "k": "hospital",
+    "name": "Medanta Super Specialty Hospital (MR 10)",
+    "lat": 22.762,
+    "lng": 75.885
+  },
+  {
+    "k": "hospital",
+    "name": "CHL Hospital (AB Road / LIG Colony)",
+    "lat": 22.735,
+    "lng": 75.884
+  },
+  {
+    "k": "hospital",
+    "name": "Choithram Hospital & Research Centre (Manik Bagh)",
+    "lat": 22.695,
+    "lng": 75.845
+  },
+  {
+    "k": "hospital",
+    "name": "Shalby Super Specialty Hospital (Janjeerwala Square)",
+    "lat": 22.728,
+    "lng": 75.882
+  },
+  {
+    "k": "hospital",
+    "name": "Sri Aurobindo Institute of Medical Sciences (SAIMS / Ujjain Rd)",
+    "lat": 22.798,
+    "lng": 75.848
+  },
+  {
+    "k": "hospital",
+    "name": "Apollo Hospitals (Vijay Nagar)",
+    "lat": 22.751,
+    "lng": 75.893
+  },
+  {
+    "k": "hospital",
+    "name": "Care CHL Hospital (Scheme 74)",
+    "lat": 22.758,
+    "lng": 75.887
+  },
+  {
+    "k": "hospital",
+    "name": "Greater Kailash Hospital (Old Palasia)",
+    "lat": 22.723,
+    "lng": 75.886
+  },
+  {
+    "k": "hospital",
+    "name": "MY Hospital (Maharaja Yeshwantrao)",
+    "lat": 22.717,
+    "lng": 75.875
+  },
+  {
+    "k": "rail",
+    "name": "Devi Ahilyabai Holkar International Airport (IDR)",
+    "lat": 22.723,
+    "lng": 75.801
+  },
+  {
+    "k": "rail",
+    "name": "Indore Junction Railway Station",
+    "lat": 22.7175,
+    "lng": 75.868
+  },
+  {
+    "k": "rail",
+    "name": "Laxmibai Nagar Railway Station",
+    "lat": 22.744,
+    "lng": 75.855
+  },
+  {
+    "k": "rail",
+    "name": "Rau Railway Station",
+    "lat": 22.627,
+    "lng": 75.802
+  },
+  {
+    "k": "rail",
+    "name": "Sarwate Bus Stand",
+    "lat": 22.714,
+    "lng": 75.867
+  },
+  {
+    "k": "rail",
+    "name": "AiCTSL Geeta Bhavan City Bus Hub",
+    "lat": 22.719,
+    "lng": 75.883
+  },
+  {
+    "k": "metro",
+    "name": "Gandhi Nagar Metro Station (Super Corridor)",
+    "lat": 22.746,
+    "lng": 75.798
+  },
+  {
+    "k": "metro",
+    "name": "Super Corridor 03 Metro Station",
+    "lat": 22.756,
+    "lng": 75.815
+  },
+  {
+    "k": "metro",
+    "name": "Super Corridor 05 Metro Station",
+    "lat": 22.768,
+    "lng": 75.834
+  },
+  {
+    "k": "metro",
+    "name": "Bhanwar Kuan Metro Station",
+    "lat": 22.692,
+    "lng": 75.865
+  },
+  {
+    "k": "metro",
+    "name": "Radisson Square Metro Station (Vijay Nagar)",
+    "lat": 22.752,
+    "lng": 75.898
+  },
+  {
+    "k": "metro",
+    "name": "Bapat Square Metro Station (MR 10)",
+    "lat": 22.758,
+    "lng": 75.867
+  },
+  {
+    "k": "park",
+    "name": "Pipliyapala Regional Park (Atal Bihari Vajpayee Park)",
+    "lat": 22.684,
+    "lng": 75.856
+  },
+  {
+    "k": "park",
+    "name": "Meghdoot Garden (Vijay Nagar)",
+    "lat": 22.754,
+    "lng": 75.892
+  },
+  {
+    "k": "park",
+    "name": "Kamla Nehru Prani Sangrahalay (Indore Zoo)",
+    "lat": 22.711,
+    "lng": 75.878
+  },
+  {
+    "k": "park",
+    "name": "Sirpur Lake Bird Sanctuary",
+    "lat": 22.705,
+    "lng": 75.812
+  },
+  {
+    "k": "park",
+    "name": "Ralamandal Wildlife Sanctuary",
+    "lat": 22.658,
+    "lng": 75.918
+  },
+  {
+    "k": "park",
+    "name": "Bilawali Lake Promenade",
+    "lat": 22.675,
+    "lng": 75.875
+  },
+  {
+    "k": "park",
+    "name": "Lal Bagh Palace Gardens",
+    "lat": 22.701,
+    "lng": 75.845
+  },
+  {
+    "k": "park",
+    "name": "Nehru Park (Regal Circle)",
+    "lat": 22.719,
+    "lng": 75.871
+  },
+  {
+    "k": "school",
+    "name": "TCS Indore SEZ Campus (Super Corridor)",
+    "lat": 22.775,
+    "lng": 75.792
+  },
+  {
+    "k": "school",
+    "name": "Infosys Indore Development Centre (Super Corridor)",
+    "lat": 22.779,
+    "lng": 75.789
+  },
+  {
+    "k": "school",
+    "name": "IIM Indore (Indian Institute of Management, Rau / Pigdamber)",
+    "lat": 22.624,
+    "lng": 75.778
+  },
+  {
+    "k": "school",
+    "name": "IIT Indore (Simrol / Khandwa Rd)",
+    "lat": 22.585,
+    "lng": 75.922
+  },
+  {
+    "k": "school",
+    "name": "Daly College (Residency Area)",
+    "lat": 22.709,
+    "lng": 75.895
+  },
+  {
+    "k": "school",
+    "name": "Delhi Public School (DPS) Nipania",
+    "lat": 22.768,
+    "lng": 75.925
+  },
+  {
+    "k": "school",
+    "name": "Delhi Public School (DPS) Rau",
+    "lat": 22.632,
+    "lng": 75.815
+  },
+  {
+    "k": "school",
+    "name": "The Emerald Heights International School (Bypass)",
+    "lat": 22.668,
+    "lng": 75.924
+  },
+  {
+    "k": "school",
+    "name": "Shishukunj International School (Jhalaria)",
+    "lat": 22.735,
+    "lng": 75.938
+  },
+  {
+    "k": "school",
+    "name": "Devi Ahilya Vishwavidyalaya (DAVV Takshashila Campus)",
+    "lat": 22.695,
+    "lng": 75.872
+  },
+  {
+    "k": "school",
+    "name": "SGSITS Engineering College (Yashwant Ganj)",
+    "lat": 22.726,
+    "lng": 75.869
+  },
+  {
+    "k": "school",
+    "name": "Brilliant Convention Centre (Scheme 78)",
+    "lat": 22.761,
+    "lng": 75.893
+  }
+]

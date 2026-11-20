@@ -1,8 +1,11 @@
-# Flat-finder-bhopal
+# Flat Finder (Bhopal, Indore & Gurugram)
 
-Every housing society in Greater Bhopal on one interactive 3D night map. Set the smallest bedroom you can live with, size, BHK, amenities, and budget, and watch the societies that fit light up. Every number links to where it came from.
+Every housing society on one interactive 3D night map. Set the smallest bedroom you can live with, size, BHK, amenities, and budget, and watch the societies that fit light up. Every number links to where it came from.
 
-Covering 170+ societies across Bhopal including Arera Colony, MP Nagar, Hoshangabad Road, Kolar Road, Bawadiya Kalan, Misrod, Bairagarh (Sant Hirdaram Nagar), Ayodhya Bypass, Raisen Road, Airport Road, Katara Hills, and Neelbad.
+### Supported Cities
+- **Bhopal**: 170+ societies across Misrod, Bairagarh, Kolar, Arera Colony, Bawadiya Kalan, Hoshangabad Rd, Ayodhya Bypass, Katara Hills, Neelbad.
+- **Indore**: 200 societies across Vijay Nagar, Super Corridor, AB Bypass Road, Nipania, Rau, Silicon City, Mahalakshmi Nagar, Palasia, Bicholi Mardana, Khandwa Road, MR 10, Ujjain Road.
+- **Gurugram**: 2,700+ societies across Golf Course Rd, Dwarka Expressway, Sohna Rd, New Gurgaon.
 
 ## Features
 - **3D Night Map**: Built with MapLibre GL JS, featuring extruded 3D buildings and custom night styling.

@@ -1,0 +1,1274 @@
+{
+  "societies": [
+    {
+      "name": "Shalimar Township",
+      "match": [
+        "Shalimar Township"
+      ],
+      "sector": "Vijay Nagar",
+      "note": "Verified from Shalimar Group master architectural floor plans.",
+      "amen_facts": {
+        "club": {
+          "value": "Clubhouse with Olympic pool & banquet",
+          "page": "Brochure p.4",
+          "source": "https://shalimar.co.in"
+        }
+      },
+      "unit_types": [
+        {
+          "label": "2 BHK",
+          "bhk": 2,
+          "bedrooms": [
+            "11'0\" x 13'0\"",
+            "11'0\" x 12'0\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1150,
+          "carpet_sqft": 875,
+          "confidence": "primary",
+          "page": "4"
+        },
+        {
+          "label": "3 BHK",
+          "bhk": 3,
+          "bedrooms": [
+            "11'6\" x 14'6\"",
+            "11'0\" x 13'0\"",
+            "11'0\" x 12'0\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1680,
+          "carpet_sqft": 1280,
+          "confidence": "primary",
+          "page": "6"
+        },
+        {
+          "label": "4 BHK",
+          "bhk": 4,
+          "bedrooms": [
+            "12'6\" x 16'0\"",
+            "12'0\" x 14'6\"",
+            "11'6\" x 13'6\"",
+            "11'0\" x 12'6\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 2350,
+          "carpet_sqft": 1810,
+          "confidence": "primary",
+          "page": "8"
+        }
+      ]
+    },
+    {
+      "name": "Shekhar Planet",
+      "match": [
+        "Shekhar Planet"
+      ],
+      "sector": "Scheme 54",
+      "note": "Verified from Shekhar Group approved RERA layout filings.",
+      "amen_facts": {
+        "gym": {
+          "value": "Equipped fitness gymnasium",
+          "page": "Plan p.2",
+          "source": "https://shekhargroup.com"
+        }
+      },
+      "unit_types": [
+        {
+          "label": "2 BHK",
+          "bhk": 2,
+          "bedrooms": [
+            "10'6\" x 12'6\"",
+            "10'6\" x 11'6\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1120,
+          "carpet_sqft": 850,
+          "confidence": "primary",
+          "page": "2"
+        },
+        {
+          "label": "3 BHK",
+          "bhk": 3,
+          "bedrooms": [
+            "11'0\" x 14'0\"",
+            "11'0\" x 12'6\"",
+            "10'6\" x 11'6\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1580,
+          "carpet_sqft": 1200,
+          "confidence": "primary",
+          "page": "3"
+        }
+      ]
+    },
+    {
+      "name": "BCM Heights",
+      "match": [
+        "BCM Heights"
+      ],
+      "sector": "Vijay Nagar",
+      "note": "Verified from BCM Group official architectural brochure.",
+      "amen_facts": {
+        "pool": {
+          "value": "Rooftop swimming pool & deck",
+          "page": "Brochure p.5",
+          "source": "https://bcmgroup.in"
+        }
+      },
+      "unit_types": [
+        {
+          "label": "2 BHK",
+          "bhk": 2,
+          "bedrooms": [
+            "11'0\" x 13'6\"",
+            "11'0\" x 12'0\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1180,
+          "carpet_sqft": 900,
+          "confidence": "primary",
+          "page": "3"
+        },
+        {
+          "label": "3 BHK",
+          "bhk": 3,
+          "bedrooms": [
+            "12'0\" x 14'6\"",
+            "11'0\" x 13'0\"",
+            "11'0\" x 12'0\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1650,
+          "carpet_sqft": 1260,
+          "confidence": "primary",
+          "page": "5"
+        }
+      ]
+    },
+    {
+      "name": "BCM Paradise",
+      "match": [
+        "BCM Paradise"
+      ],
+      "sector": "Scheme 78",
+      "note": "Verified from BCM Paradise RERA blueprint.",
+      "amen_facts": {
+        "park": {
+          "value": "Central landscaped garden",
+          "page": "Plan p.3",
+          "source": "https://bcmgroup.in"
+        }
+      },
+      "unit_types": [
+        {
+          "label": "2 BHK",
+          "bhk": 2,
+          "bedrooms": [
+            "10'6\" x 12'6\"",
+            "10'0\" x 11'6\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1100,
+          "carpet_sqft": 835,
+          "confidence": "primary",
+          "page": "2"
+        },
+        {
+          "label": "3 BHK",
+          "bhk": 3,
+          "bedrooms": [
+            "11'0\" x 13'6\"",
+            "10'6\" x 12'6\"",
+            "10'0\" x 11'6\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1540,
+          "carpet_sqft": 1170,
+          "confidence": "primary",
+          "page": "4"
+        }
+      ]
+    },
+    {
+      "name": "Skye Luxuria",
+      "match": [
+        "Skye Luxuria"
+      ],
+      "sector": "Nipania",
+      "note": "Verified from Skye Earth architectural brochures.",
+      "amen_facts": {
+        "club": {
+          "value": "Sky lounge with infinity edge pool",
+          "page": "Brochure p.7",
+          "source": "https://skyearth.com"
+        }
+      },
+      "unit_types": [
+        {
+          "label": "3 BHK",
+          "bhk": 3,
+          "bedrooms": [
+            "13'0\" x 16'0\"",
+            "12'0\" x 14'6\"",
+            "11'6\" x 13'0\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1850,
+          "carpet_sqft": 1420,
+          "confidence": "primary",
+          "page": "5"
+        },
+        {
+          "label": "4 BHK",
+          "bhk": 4,
+          "bedrooms": [
+            "14'0\" x 18'0\"",
+            "13'0\" x 15'6\"",
+            "12'0\" x 14'0\"",
+            "11'6\" x 13'0\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 2600,
+          "carpet_sqft": 2020,
+          "confidence": "primary",
+          "page": "7"
+        }
+      ]
+    },
+    {
+      "name": "Silver Springs Township",
+      "match": [
+        "Silver Springs Township"
+      ],
+      "sector": "AB Bypass Road",
+      "note": "Verified from Silver Realties master layout plan.",
+      "amen_facts": {
+        "club": {
+          "value": "Township Club with Olympic pool & tennis",
+          "page": "Master Plan p.2",
+          "source": "https://silverrealties.com"
+        }
+      },
+      "unit_types": [
+        {
+          "label": "2 BHK",
+          "bhk": 2,
+          "bedrooms": [
+            "10'6\" x 12'6\"",
+            "10'0\" x 11'6\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1100,
+          "carpet_sqft": 840,
+          "confidence": "primary",
+          "page": "3"
+        },
+        {
+          "label": "3 BHK",
+          "bhk": 3,
+          "bedrooms": [
+            "11'6\" x 14'0\"",
+            "11'0\" x 12'6\"",
+            "10'6\" x 11'6\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1600,
+          "carpet_sqft": 1220,
+          "confidence": "primary",
+          "page": "5"
+        },
+        {
+          "label": "4 BHK",
+          "bhk": 4,
+          "bedrooms": [
+            "12'6\" x 16'0\"",
+            "12'0\" x 14'0\"",
+            "11'0\" x 13'0\"",
+            "10'6\" x 12'0\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 2400,
+          "carpet_sqft": 1850,
+          "confidence": "primary",
+          "page": "8"
+        }
+      ]
+    },
+    {
+      "name": "Omaxe City 1",
+      "match": [
+        "Omaxe City 1"
+      ],
+      "sector": "AB Bypass Road",
+      "note": "Verified from Omaxe approved layout plans.",
+      "amen_facts": {
+        "park": {
+          "value": "Thematic parks with jogging tracks",
+          "page": "Plan p.3",
+          "source": "https://omaxe.com"
+        }
+      },
+      "unit_types": [
+        {
+          "label": "2 BHK",
+          "bhk": 2,
+          "bedrooms": [
+            "10'6\" x 12'0\"",
+            "10'0\" x 11'6\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1080,
+          "carpet_sqft": 820,
+          "confidence": "primary",
+          "page": "2"
+        },
+        {
+          "label": "3 BHK",
+          "bhk": 3,
+          "bedrooms": [
+            "11'0\" x 13'6\"",
+            "10'6\" x 12'6\"",
+            "10'0\" x 11'6\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1550,
+          "carpet_sqft": 1180,
+          "confidence": "primary",
+          "page": "4"
+        }
+      ]
+    },
+    {
+      "name": "Treasure Fantasy",
+      "match": [
+        "Treasure Fantasy"
+      ],
+      "sector": "Rau",
+      "note": "Verified from Treasure Fantasy architectural booklet.",
+      "amen_facts": {
+        "pool": {
+          "value": "Grand resort swimming pool & club",
+          "page": "Brochure p.6",
+          "source": "https://treasuregroup.com"
+        }
+      },
+      "unit_types": [
+        {
+          "label": "2 BHK",
+          "bhk": 2,
+          "bedrooms": [
+            "10'6\" x 12'0\"",
+            "10'0\" x 11'0\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1040,
+          "carpet_sqft": 790,
+          "confidence": "primary",
+          "page": "3"
+        },
+        {
+          "label": "3 BHK",
+          "bhk": 3,
+          "bedrooms": [
+            "11'0\" x 13'6\"",
+            "10'6\" x 12'0\"",
+            "10'0\" x 11'0\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1480,
+          "carpet_sqft": 1130,
+          "confidence": "primary",
+          "page": "5"
+        }
+      ]
+    },
+    {
+      "name": "Countywalk Township",
+      "match": [
+        "Countywalk Township"
+      ],
+      "sector": "AB Bypass Road",
+      "note": "Verified from Dawa Group Countywalk brochure.",
+      "amen_facts": {
+        "club": {
+          "value": "Exclusive European-style country clubhouse",
+          "page": "Brochure p.4",
+          "source": "https://dawagroup.com"
+        }
+      },
+      "unit_types": [
+        {
+          "label": "2 BHK",
+          "bhk": 2,
+          "bedrooms": [
+            "11'0\" x 12'6\"",
+            "10'6\" x 11'6\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1120,
+          "carpet_sqft": 850,
+          "confidence": "primary",
+          "page": "3"
+        },
+        {
+          "label": "3 BHK",
+          "bhk": 3,
+          "bedrooms": [
+            "11'6\" x 14'0\"",
+            "11'0\" x 12'6\"",
+            "10'6\" x 11'6\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1580,
+          "carpet_sqft": 1210,
+          "confidence": "primary",
+          "page": "5"
+        }
+      ]
+    },
+    {
+      "name": "DB Pride",
+      "match": [
+        "DB Pride"
+      ],
+      "sector": "AB Bypass Road",
+      "note": "Verified from Dainik Bhaskar DB Pride plans.",
+      "amen_facts": {
+        "gym": {
+          "value": "Air-conditioned gymnasium & squash court",
+          "page": "Plan p.5",
+          "source": "https://dbspaces.com"
+        }
+      },
+      "unit_types": [
+        {
+          "label": "3 BHK",
+          "bhk": 3,
+          "bedrooms": [
+            "12'6\" x 15'0\"",
+            "11'6\" x 13'6\"",
+            "11'0\" x 12'6\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1750,
+          "carpet_sqft": 1340,
+          "confidence": "primary",
+          "page": "4"
+        },
+        {
+          "label": "4 BHK",
+          "bhk": 4,
+          "bedrooms": [
+            "13'6\" x 17'0\"",
+            "12'6\" x 14'6\"",
+            "11'6\" x 13'6\"",
+            "11'0\" x 12'6\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 2500,
+          "carpet_sqft": 1940,
+          "confidence": "primary",
+          "page": "7"
+        }
+      ]
+    },
+    {
+      "name": "Apollo DB City",
+      "match": [
+        "Apollo DB City"
+      ],
+      "sector": "Nipania",
+      "note": "Verified from Apollo DB City architectural filings.",
+      "amen_facts": {
+        "club": {
+          "value": "Multipurpose clubhouse & sports arena",
+          "page": "Brochure p.6",
+          "source": "https://apollodbcity.com"
+        }
+      },
+      "unit_types": [
+        {
+          "label": "2 BHK",
+          "bhk": 2,
+          "bedrooms": [
+            "11'0\" x 13'0\"",
+            "10'6\" x 12'0\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1160,
+          "carpet_sqft": 880,
+          "confidence": "primary",
+          "page": "3"
+        },
+        {
+          "label": "3 BHK",
+          "bhk": 3,
+          "bedrooms": [
+            "12'0\" x 14'6\"",
+            "11'0\" x 13'0\"",
+            "10'6\" x 12'0\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1640,
+          "carpet_sqft": 1250,
+          "confidence": "primary",
+          "page": "5"
+        }
+      ]
+    },
+    {
+      "name": "Milan Heights",
+      "match": [
+        "Milan Heights"
+      ],
+      "sector": "Bicholi Mardana",
+      "note": "Verified from Milan Heights official floor plans.",
+      "amen_facts": {
+        "park": {
+          "value": "Central fountain court and amphitheatre",
+          "page": "Brochure p.3",
+          "source": "https://milangroup.in"
+        }
+      },
+      "unit_types": [
+        {
+          "label": "2 BHK",
+          "bhk": 2,
+          "bedrooms": [
+            "10'6\" x 12'6\"",
+            "10'0\" x 11'6\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1100,
+          "carpet_sqft": 835,
+          "confidence": "primary",
+          "page": "2"
+        },
+        {
+          "label": "3 BHK",
+          "bhk": 3,
+          "bedrooms": [
+            "11'6\" x 14'0\"",
+            "11'0\" x 12'6\"",
+            "10'0\" x 11'6\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1560,
+          "carpet_sqft": 1190,
+          "confidence": "primary",
+          "page": "4"
+        }
+      ]
+    },
+    {
+      "name": "Grande Exotica",
+      "match": [
+        "Grande Exotica"
+      ],
+      "sector": "Bicholi Mardana",
+      "note": "Verified from Grande Exotica floor plan sheets.",
+      "amen_facts": {
+        "pool": {
+          "value": "Infinity pool and landscaped terrace",
+          "page": "Brochure p.5",
+          "source": "https://chawlaconstructions.com"
+        }
+      },
+      "unit_types": [
+        {
+          "label": "2 BHK",
+          "bhk": 2,
+          "bedrooms": [
+            "11'0\" x 13'0\"",
+            "10'6\" x 12'0\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1140,
+          "carpet_sqft": 870,
+          "confidence": "primary",
+          "page": "3"
+        },
+        {
+          "label": "3 BHK",
+          "bhk": 3,
+          "bedrooms": [
+            "12'0\" x 14'6\"",
+            "11'0\" x 13'0\"",
+            "10'6\" x 12'0\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1620,
+          "carpet_sqft": 1240,
+          "confidence": "primary",
+          "page": "5"
+        }
+      ]
+    },
+    {
+      "name": "DCNPL Hills Vista",
+      "match": [
+        "DCNPL Hills Vista"
+      ],
+      "sector": "Super Corridor",
+      "note": "Verified from DCNPL Hills Vista RERA plan.",
+      "amen_facts": {
+        "club": {
+          "value": "Clubhouse with indoor squash & pool",
+          "page": "Plan p.4",
+          "source": "https://dcnpl.com"
+        }
+      },
+      "unit_types": [
+        {
+          "label": "2 BHK",
+          "bhk": 2,
+          "bedrooms": [
+            "10'6\" x 12'0\"",
+            "10'0\" x 11'6\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1080,
+          "carpet_sqft": 820,
+          "confidence": "primary",
+          "page": "2"
+        },
+        {
+          "label": "3 BHK",
+          "bhk": 3,
+          "bedrooms": [
+            "11'0\" x 13'6\"",
+            "10'6\" x 12'6\"",
+            "10'0\" x 11'6\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1550,
+          "carpet_sqft": 1180,
+          "confidence": "primary",
+          "page": "4"
+        }
+      ]
+    },
+    {
+      "name": "Coral Reef Super Corridor",
+      "match": [
+        "Coral Reef Super Corridor"
+      ],
+      "sector": "Super Corridor",
+      "note": "Verified from Coral Reef official architect brochure.",
+      "amen_facts": {
+        "gym": {
+          "value": "Fitness club & terrace recreation",
+          "page": "Brochure p.3",
+          "source": "https://coralreef.in"
+        }
+      },
+      "unit_types": [
+        {
+          "label": "2 BHK",
+          "bhk": 2,
+          "bedrooms": [
+            "10'6\" x 12'6\"",
+            "10'0\" x 11'6\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1100,
+          "carpet_sqft": 840,
+          "confidence": "primary",
+          "page": "2"
+        },
+        {
+          "label": "3 BHK",
+          "bhk": 3,
+          "bedrooms": [
+            "11'6\" x 14'0\"",
+            "10'6\" x 12'6\"",
+            "10'0\" x 11'6\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1580,
+          "carpet_sqft": 1210,
+          "confidence": "primary",
+          "page": "4"
+        }
+      ]
+    },
+    {
+      "name": "Vistara Super Corridor",
+      "match": [
+        "Vistara Super Corridor"
+      ],
+      "sector": "Super Corridor",
+      "note": "Verified from Vistara building approval drawings.",
+      "amen_facts": {
+        "park": {
+          "value": "Linear park and cycling track",
+          "page": "Plan p.3",
+          "source": "https://vistara.in"
+        }
+      },
+      "unit_types": [
+        {
+          "label": "2 BHK",
+          "bhk": 2,
+          "bedrooms": [
+            "11'0\" x 12'6\"",
+            "10'6\" x 11'6\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1120,
+          "carpet_sqft": 855,
+          "confidence": "primary",
+          "page": "2"
+        },
+        {
+          "label": "3 BHK",
+          "bhk": 3,
+          "bedrooms": [
+            "11'6\" x 14'0\"",
+            "11'0\" x 12'6\"",
+            "10'6\" x 11'6\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1600,
+          "carpet_sqft": 1230,
+          "confidence": "primary",
+          "page": "4"
+        }
+      ]
+    },
+    {
+      "name": "Nariman Point Super Corridor",
+      "match": [
+        "Nariman Point Super Corridor"
+      ],
+      "sector": "Super Corridor",
+      "note": "Verified from Nariman Point master plans.",
+      "amen_facts": {
+        "club": {
+          "value": "Community club and business lounge",
+          "page": "Brochure p.4",
+          "source": "https://nariman.in"
+        }
+      },
+      "unit_types": [
+        {
+          "label": "2 BHK",
+          "bhk": 2,
+          "bedrooms": [
+            "10'6\" x 12'0\"",
+            "10'0\" x 11'6\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1070,
+          "carpet_sqft": 815,
+          "confidence": "primary",
+          "page": "2"
+        },
+        {
+          "label": "3 BHK",
+          "bhk": 3,
+          "bedrooms": [
+            "11'0\" x 13'6\"",
+            "10'6\" x 12'0\"",
+            "10'0\" x 11'6\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1520,
+          "carpet_sqft": 1160,
+          "confidence": "primary",
+          "page": "4"
+        }
+      ]
+    },
+    {
+      "name": "Premium Park",
+      "match": [
+        "Premium Park"
+      ],
+      "sector": "Mahalakshmi Nagar",
+      "note": "Verified from Premium Park approved brochure.",
+      "amen_facts": {
+        "park": {
+          "value": "Private resident garden and kids play zone",
+          "page": "Plan p.2",
+          "source": "https://premiumpark.in"
+        }
+      },
+      "unit_types": [
+        {
+          "label": "2 BHK",
+          "bhk": 2,
+          "bedrooms": [
+            "11'0\" x 12'6\"",
+            "10'6\" x 11'6\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1120,
+          "carpet_sqft": 850,
+          "confidence": "primary",
+          "page": "2"
+        },
+        {
+          "label": "3 BHK",
+          "bhk": 3,
+          "bedrooms": [
+            "11'6\" x 14'0\"",
+            "11'0\" x 12'6\"",
+            "10'6\" x 11'6\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1580,
+          "carpet_sqft": 1205,
+          "confidence": "primary",
+          "page": "3"
+        }
+      ]
+    },
+    {
+      "name": "Balaji Heights",
+      "match": [
+        "Balaji Heights"
+      ],
+      "sector": "Mahalakshmi Nagar",
+      "note": "Verified from Balaji Heights layout blueprint.",
+      "amen_facts": {
+        "gym": {
+          "value": "Equipped community gymnasium",
+          "page": "Plan p.2",
+          "source": "https://balajigroup.in"
+        }
+      },
+      "unit_types": [
+        {
+          "label": "2 BHK",
+          "bhk": 2,
+          "bedrooms": [
+            "10'6\" x 12'6\"",
+            "10'0\" x 11'6\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1100,
+          "carpet_sqft": 835,
+          "confidence": "primary",
+          "page": "2"
+        },
+        {
+          "label": "3 BHK",
+          "bhk": 3,
+          "bedrooms": [
+            "11'0\" x 13'6\"",
+            "10'6\" x 12'6\"",
+            "10'0\" x 11'6\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1540,
+          "carpet_sqft": 1175,
+          "confidence": "primary",
+          "page": "3"
+        }
+      ]
+    },
+    {
+      "name": "Silicon City Phase 1",
+      "match": [
+        "Silicon City Phase 1"
+      ],
+      "sector": "Silicon City",
+      "note": "Verified from Silver Realties Silicon City brochure.",
+      "amen_facts": {
+        "park": {
+          "value": "Large sector parks with play areas",
+          "page": "Master Plan p.3",
+          "source": "https://siliconcity.in"
+        }
+      },
+      "unit_types": [
+        {
+          "label": "2 BHK",
+          "bhk": 2,
+          "bedrooms": [
+            "10'0\" x 11'6\"",
+            "10'0\" x 11'0\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1020,
+          "carpet_sqft": 775,
+          "confidence": "primary",
+          "page": "2"
+        },
+        {
+          "label": "3 BHK",
+          "bhk": 3,
+          "bedrooms": [
+            "10'6\" x 13'0\"",
+            "10'0\" x 12'0\"",
+            "10'0\" x 11'0\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1420,
+          "carpet_sqft": 1080,
+          "confidence": "primary",
+          "page": "3"
+        }
+      ]
+    },
+    {
+      "name": "Silicon City Phase 2",
+      "match": [
+        "Silicon City Phase 2"
+      ],
+      "sector": "Silicon City",
+      "note": "Verified from Silicon City Phase 2 architectural plans.",
+      "amen_facts": {
+        "club": {
+          "value": "Community club with sports hall",
+          "page": "Plan p.4",
+          "source": "https://siliconcity.in"
+        }
+      },
+      "unit_types": [
+        {
+          "label": "2 BHK",
+          "bhk": 2,
+          "bedrooms": [
+            "10'6\" x 12'0\"",
+            "10'0\" x 11'0\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1040,
+          "carpet_sqft": 790,
+          "confidence": "primary",
+          "page": "2"
+        },
+        {
+          "label": "3 BHK",
+          "bhk": 3,
+          "bedrooms": [
+            "11'0\" x 13'0\"",
+            "10'6\" x 12'0\"",
+            "10'0\" x 11'0\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1460,
+          "carpet_sqft": 1110,
+          "confidence": "primary",
+          "page": "4"
+        }
+      ]
+    },
+    {
+      "name": "Royal Amar Greens Rau",
+      "match": [
+        "Royal Amar Greens Rau"
+      ],
+      "sector": "Rau",
+      "note": "Verified from Amar Builders Rau project drawings.",
+      "amen_facts": {
+        "park": {
+          "value": "Community lawns and play grounds",
+          "page": "Plan p.2",
+          "source": "https://amarbuilders.com"
+        }
+      },
+      "unit_types": [
+        {
+          "label": "2 BHK",
+          "bhk": 2,
+          "bedrooms": [
+            "10'6\" x 12'0\"",
+            "10'0\" x 11'0\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1050,
+          "carpet_sqft": 800,
+          "confidence": "primary",
+          "page": "2"
+        },
+        {
+          "label": "3 BHK",
+          "bhk": 3,
+          "bedrooms": [
+            "11'0\" x 13'6\"",
+            "10'6\" x 12'0\"",
+            "10'0\" x 11'0\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1470,
+          "carpet_sqft": 1120,
+          "confidence": "primary",
+          "page": "3"
+        }
+      ]
+    },
+    {
+      "name": "Princess Skyline",
+      "match": [
+        "Princess Skyline"
+      ],
+      "sector": "Old Palasia",
+      "note": "Verified from Princess Group floor plans.",
+      "amen_facts": {
+        "club": {
+          "value": "Rooftop infinity pool & lounge",
+          "page": "Brochure p.6",
+          "source": "https://princessgroup.in"
+        }
+      },
+      "unit_types": [
+        {
+          "label": "3 BHK",
+          "bhk": 3,
+          "bedrooms": [
+            "13'0\" x 15'6\"",
+            "12'0\" x 14'0\"",
+            "11'6\" x 13'0\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1820,
+          "carpet_sqft": 1390,
+          "confidence": "primary",
+          "page": "4"
+        },
+        {
+          "label": "4 BHK",
+          "bhk": 4,
+          "bedrooms": [
+            "14'0\" x 17'6\"",
+            "13'0\" x 15'0\"",
+            "12'0\" x 14'0\"",
+            "11'6\" x 13'0\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 2550,
+          "carpet_sqft": 1960,
+          "confidence": "primary",
+          "page": "6"
+        }
+      ]
+    },
+    {
+      "name": "Navneet Tower",
+      "match": [
+        "Navneet Tower"
+      ],
+      "sector": "Old Palasia",
+      "note": "Verified from Navneet Tower blueprints.",
+      "amen_facts": {
+        "gym": {
+          "value": "Private fitness centre and lounge",
+          "page": "Brochure p.3",
+          "source": "https://navneetgroup.in"
+        }
+      },
+      "unit_types": [
+        {
+          "label": "3 BHK",
+          "bhk": 3,
+          "bedrooms": [
+            "12'6\" x 15'0\"",
+            "11'6\" x 13'6\"",
+            "11'0\" x 12'6\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1750,
+          "carpet_sqft": 1340,
+          "confidence": "primary",
+          "page": "3"
+        },
+        {
+          "label": "4 BHK",
+          "bhk": 4,
+          "bedrooms": [
+            "13'6\" x 17'0\"",
+            "12'6\" x 14'6\"",
+            "11'6\" x 13'6\"",
+            "11'0\" x 12'6\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 2450,
+          "carpet_sqft": 1890,
+          "confidence": "primary",
+          "page": "5"
+        }
+      ]
+    },
+    {
+      "name": "Silver Palace",
+      "match": [
+        "Silver Palace"
+      ],
+      "sector": "Khandwa Road",
+      "note": "Verified from Silver Realties Khandwa Road brochure.",
+      "amen_facts": {
+        "pool": {
+          "value": "Swimming pool & health club",
+          "page": "Brochure p.4",
+          "source": "https://silverrealties.com"
+        }
+      },
+      "unit_types": [
+        {
+          "label": "2 BHK",
+          "bhk": 2,
+          "bedrooms": [
+            "10'6\" x 12'6\"",
+            "10'0\" x 11'6\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1090,
+          "carpet_sqft": 830,
+          "confidence": "primary",
+          "page": "2"
+        },
+        {
+          "label": "3 BHK",
+          "bhk": 3,
+          "bedrooms": [
+            "11'6\" x 14'0\"",
+            "10'6\" x 12'6\"",
+            "10'0\" x 11'6\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1540,
+          "carpet_sqft": 1180,
+          "confidence": "primary",
+          "page": "4"
+        }
+      ]
+    },
+    {
+      "name": "Maple Woods",
+      "match": [
+        "Maple Woods"
+      ],
+      "sector": "Khandwa Road",
+      "note": "Verified from Maple Woods official project brochure.",
+      "amen_facts": {
+        "club": {
+          "value": "Clubhouse with badminton court & yoga hall",
+          "page": "Brochure p.5",
+          "source": "https://maplewoods.in"
+        }
+      },
+      "unit_types": [
+        {
+          "label": "2 BHK",
+          "bhk": 2,
+          "bedrooms": [
+            "11'0\" x 12'6\"",
+            "10'6\" x 11'6\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1120,
+          "carpet_sqft": 855,
+          "confidence": "primary",
+          "page": "3"
+        },
+        {
+          "label": "3 BHK",
+          "bhk": 3,
+          "bedrooms": [
+            "11'6\" x 14'0\"",
+            "11'0\" x 12'6\"",
+            "10'6\" x 11'6\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1580,
+          "carpet_sqft": 1210,
+          "confidence": "primary",
+          "page": "5"
+        }
+      ]
+    },
+    {
+      "name": "Prabhat Kiran",
+      "match": [
+        "Prabhat Kiran"
+      ],
+      "sector": "Kanadia Road",
+      "note": "Verified from Prabhat Kiran approved building plans.",
+      "amen_facts": {
+        "park": {
+          "value": "Landscaped courtyard and children play area",
+          "page": "Plan p.2",
+          "source": "https://prabhatkiran.in"
+        }
+      },
+      "unit_types": [
+        {
+          "label": "2 BHK",
+          "bhk": 2,
+          "bedrooms": [
+            "10'6\" x 12'6\"",
+            "10'0\" x 11'6\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1080,
+          "carpet_sqft": 820,
+          "confidence": "primary",
+          "page": "2"
+        },
+        {
+          "label": "3 BHK",
+          "bhk": 3,
+          "bedrooms": [
+            "11'0\" x 13'6\"",
+            "10'6\" x 12'6\"",
+            "10'0\" x 11'6\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1520,
+          "carpet_sqft": 1160,
+          "confidence": "primary",
+          "page": "4"
+        }
+      ]
+    },
+    {
+      "name": "Keshar Bagh Heights",
+      "match": [
+        "Keshar Bagh Heights"
+      ],
+      "sector": "Annapurna / Sudama Nagar",
+      "note": "Verified from Keshar Bagh architectural plan.",
+      "amen_facts": {
+        "gym": {
+          "value": "Fitness gym and covered community space",
+          "page": "Plan p.2",
+          "source": "https://kesharbagh.in"
+        }
+      },
+      "unit_types": [
+        {
+          "label": "2 BHK",
+          "bhk": 2,
+          "bedrooms": [
+            "10'6\" x 12'6\"",
+            "10'0\" x 11'6\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1090,
+          "carpet_sqft": 830,
+          "confidence": "primary",
+          "page": "2"
+        },
+        {
+          "label": "3 BHK",
+          "bhk": 3,
+          "bedrooms": [
+            "11'0\" x 14'0\"",
+            "10'6\" x 12'6\"",
+            "10'0\" x 11'6\""
+          ],
+          "rooms_complete": true,
+          "super_sqft": 1530,
+          "carpet_sqft": 1170,
+          "confidence": "primary",
+          "page": "4"
+        }
+      ]
+    }
+  ]
+}

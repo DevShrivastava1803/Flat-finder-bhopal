@@ -1,0 +1,1160 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vijay Nagar"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.874,
+              22.735
+            ],
+            [
+              75.914,
+              22.735
+            ],
+            [
+              75.914,
+              22.767
+            ],
+            [
+              75.874,
+              22.767
+            ],
+            [
+              75.874,
+              22.735
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scheme 54"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.872,
+              22.74
+            ],
+            [
+              75.912,
+              22.74
+            ],
+            [
+              75.912,
+              22.772
+            ],
+            [
+              75.872,
+              22.772
+            ],
+            [
+              75.872,
+              22.74
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scheme 78"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.874,
+              22.747
+            ],
+            [
+              75.914,
+              22.747
+            ],
+            [
+              75.914,
+              22.779
+            ],
+            [
+              75.874,
+              22.779
+            ],
+            [
+              75.874,
+              22.747
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scheme 74"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.868,
+              22.742
+            ],
+            [
+              75.908,
+              22.742
+            ],
+            [
+              75.908,
+              22.774
+            ],
+            [
+              75.868,
+              22.774
+            ],
+            [
+              75.868,
+              22.742
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nipania"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.895,
+              22.749
+            ],
+            [
+              75.935,
+              22.749
+            ],
+            [
+              75.935,
+              22.781
+            ],
+            [
+              75.895,
+              22.781
+            ],
+            [
+              75.895,
+              22.749
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mahalakshmi Nagar"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.888,
+              22.739
+            ],
+            [
+              75.928,
+              22.739
+            ],
+            [
+              75.928,
+              22.771
+            ],
+            [
+              75.888,
+              22.771
+            ],
+            [
+              75.888,
+              22.739
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tulsi Nagar"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.883,
+              22.745
+            ],
+            [
+              75.923,
+              22.745
+            ],
+            [
+              75.923,
+              22.777
+            ],
+            [
+              75.883,
+              22.777
+            ],
+            [
+              75.883,
+              22.745
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MR 10 Corridor"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.855,
+              22.746
+            ],
+            [
+              75.895,
+              22.746
+            ],
+            [
+              75.895,
+              22.778
+            ],
+            [
+              75.855,
+              22.778
+            ],
+            [
+              75.855,
+              22.746
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bapat Square / Sukhlia"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.846,
+              22.743
+            ],
+            [
+              75.886,
+              22.743
+            ],
+            [
+              75.886,
+              22.775
+            ],
+            [
+              75.846,
+              22.775
+            ],
+            [
+              75.846,
+              22.743
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LIG Colony"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.868,
+              22.722
+            ],
+            [
+              75.908,
+              22.722
+            ],
+            [
+              75.908,
+              22.754
+            ],
+            [
+              75.868,
+              22.754
+            ],
+            [
+              75.868,
+              22.722
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AB Bypass Road"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.912,
+              22.719
+            ],
+            [
+              75.952,
+              22.719
+            ],
+            [
+              75.952,
+              22.751
+            ],
+            [
+              75.912,
+              22.751
+            ],
+            [
+              75.912,
+              22.719
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bicholi Mardana"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.908,
+              22.705
+            ],
+            [
+              75.948,
+              22.705
+            ],
+            [
+              75.948,
+              22.737
+            ],
+            [
+              75.908,
+              22.737
+            ],
+            [
+              75.908,
+              22.705
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bicholi Hapsi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.916,
+              22.696
+            ],
+            [
+              75.956,
+              22.696
+            ],
+            [
+              75.956,
+              22.728
+            ],
+            [
+              75.916,
+              22.728
+            ],
+            [
+              75.916,
+              22.696
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kanadia Road"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.898,
+              22.716
+            ],
+            [
+              75.938,
+              22.716
+            ],
+            [
+              75.938,
+              22.748
+            ],
+            [
+              75.898,
+              22.748
+            ],
+            [
+              75.898,
+              22.716
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bengali Square"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.886,
+              22.712
+            ],
+            [
+              75.926,
+              22.712
+            ],
+            [
+              75.926,
+              22.744
+            ],
+            [
+              75.886,
+              22.744
+            ],
+            [
+              75.886,
+              22.712
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pipliyahana"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.882,
+              22.703
+            ],
+            [
+              75.922,
+              22.703
+            ],
+            [
+              75.922,
+              22.735
+            ],
+            [
+              75.882,
+              22.735
+            ],
+            [
+              75.882,
+              22.703
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ralamandal Corridor"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.895,
+              22.649
+            ],
+            [
+              75.935,
+              22.649
+            ],
+            [
+              75.935,
+              22.681
+            ],
+            [
+              75.895,
+              22.681
+            ],
+            [
+              75.895,
+              22.649
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old Palasia"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.868,
+              22.708
+            ],
+            [
+              75.908,
+              22.708
+            ],
+            [
+              75.908,
+              22.74
+            ],
+            [
+              75.868,
+              22.74
+            ],
+            [
+              75.868,
+              22.708
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Palasia"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.862,
+              22.709
+            ],
+            [
+              75.902,
+              22.709
+            ],
+            [
+              75.902,
+              22.741
+            ],
+            [
+              75.862,
+              22.741
+            ],
+            [
+              75.862,
+              22.709
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Tukoganj"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.858,
+              22.703
+            ],
+            [
+              75.898,
+              22.703
+            ],
+            [
+              75.898,
+              22.735
+            ],
+            [
+              75.858,
+              22.735
+            ],
+            [
+              75.858,
+              22.703
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manoramaganj"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.854,
+              22.706
+            ],
+            [
+              75.894,
+              22.706
+            ],
+            [
+              75.894,
+              22.738
+            ],
+            [
+              75.854,
+              22.738
+            ],
+            [
+              75.854,
+              22.706
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Race Course Road"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.852,
+              22.712
+            ],
+            [
+              75.892,
+              22.712
+            ],
+            [
+              75.892,
+              22.744
+            ],
+            [
+              75.852,
+              22.744
+            ],
+            [
+              75.852,
+              22.712
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rajwada / Sarafa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.836,
+              22.702
+            ],
+            [
+              75.876,
+              22.702
+            ],
+            [
+              75.876,
+              22.734
+            ],
+            [
+              75.836,
+              22.734
+            ],
+            [
+              75.836,
+              22.702
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rau"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.785,
+              22.612
+            ],
+            [
+              75.825,
+              22.612
+            ],
+            [
+              75.825,
+              22.644
+            ],
+            [
+              75.785,
+              22.644
+            ],
+            [
+              75.785,
+              22.612
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Silicon City"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.798,
+              22.623
+            ],
+            [
+              75.838,
+              22.623
+            ],
+            [
+              75.838,
+              22.655
+            ],
+            [
+              75.798,
+              22.655
+            ],
+            [
+              75.798,
+              22.623
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cat Road / Rajendra Nagar"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.805,
+              22.649
+            ],
+            [
+              75.845,
+              22.649
+            ],
+            [
+              75.845,
+              22.681
+            ],
+            [
+              75.805,
+              22.681
+            ],
+            [
+              75.805,
+              22.649
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bhawarkua"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.845,
+              22.676
+            ],
+            [
+              75.885,
+              22.676
+            ],
+            [
+              75.885,
+              22.708
+            ],
+            [
+              75.845,
+              22.708
+            ],
+            [
+              75.845,
+              22.676
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sapna Sangeeta / Navlakha"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.852,
+              22.686
+            ],
+            [
+              75.892,
+              22.686
+            ],
+            [
+              75.892,
+              22.718
+            ],
+            [
+              75.852,
+              22.718
+            ],
+            [
+              75.852,
+              22.686
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khandwa Road"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.865,
+              22.662
+            ],
+            [
+              75.905,
+              22.662
+            ],
+            [
+              75.905,
+              22.694
+            ],
+            [
+              75.865,
+              22.694
+            ],
+            [
+              75.865,
+              22.662
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Limbodi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.872,
+              22.656
+            ],
+            [
+              75.912,
+              22.656
+            ],
+            [
+              75.912,
+              22.688
+            ],
+            [
+              75.872,
+              22.688
+            ],
+            [
+              75.872,
+              22.656
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Annapurna / Sudama Nagar"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.812,
+              22.682
+            ],
+            [
+              75.852,
+              22.682
+            ],
+            [
+              75.852,
+              22.714
+            ],
+            [
+              75.812,
+              22.714
+            ],
+            [
+              75.812,
+              22.682
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Super Corridor"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.792,
+              22.749
+            ],
+            [
+              75.832,
+              22.749
+            ],
+            [
+              75.832,
+              22.781
+            ],
+            [
+              75.792,
+              22.781
+            ],
+            [
+              75.792,
+              22.749
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gandhi Nagar"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.775,
+              22.732
+            ],
+            [
+              75.815,
+              22.732
+            ],
+            [
+              75.815,
+              22.764
+            ],
+            [
+              75.775,
+              22.764
+            ],
+            [
+              75.775,
+              22.732
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Airport Road / Kalani Nagar"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.795,
+              22.712
+            ],
+            [
+              75.835,
+              22.712
+            ],
+            [
+              75.835,
+              22.744
+            ],
+            [
+              75.795,
+              22.744
+            ],
+            [
+              75.795,
+              22.712
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ujjain Road / Sanwer Corridor"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.832,
+              22.779
+            ],
+            [
+              75.872,
+              22.779
+            ],
+            [
+              75.872,
+              22.811
+            ],
+            [
+              75.832,
+              22.811
+            ],
+            [
+              75.832,
+              22.779
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

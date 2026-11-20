@@ -21,6 +21,8 @@ def side_to_ft(s):
 
 
 def room_to_ft(r):
+    if isinstance(r, (list, tuple)):
+        return [min(float(r[0]), float(r[1])), max(float(r[0]), float(r[1]))]
     a, b = re.split(r"\s*[x×]\s*", r.strip())
     a, b = side_to_ft(a), side_to_ft(b)
     return [min(a, b), max(a, b)]
