@@ -326,6 +326,8 @@ function renderResults() {
 
 function resultItem(s) {
   const li = document.createElement('li');
+  li.dataset.sid = s.id;
+  if (s.id === selected) li.className = 'selected on';
   const st = states.get(s.id);
   const p = priceFor(s, crit.mode, crit.bhk);
   const money = p ? `${p.estimated ? '~' : ''}${formatINR(p.value)}${crit.mode === 'rent' ? '/mo' : ''}` : '';
@@ -353,6 +355,11 @@ function openSociety(sid, { fly = true } = {}) {
   if (!s) return;
   if (map) setSelected(map, sid, selected);
   selected = sid;
+  document.querySelectorAll('#results li').forEach((el) => {
+    const isSel = el.dataset.sid === sid;
+    el.classList.toggle('selected', isSel);
+    el.classList.toggle('on', isSel);
+  });
   const mob = isMobile();
   if (fly && map) map.flyTo({ center: [s.lng, s.lat], zoom: mob ? 15.4 : 16.2, pitch: is3d ? 55 : 0, bearing: 0, duration: 2600, essential: true,
     offset: mob ? [0, -80] : [-180, 0] });
@@ -368,6 +375,9 @@ function closeCard() {
   if (isMobile()) showMobile('search');
   if (map && selected) setSelected(map, null, selected);
   selected = null;
+  document.querySelectorAll('#results li.selected, #results li.on').forEach((el) => {
+    el.classList.remove('selected', 'on');
+  });
   feed?.ambient();
 }
 
@@ -634,7 +644,7 @@ function buildOnboarding() {
 // ---------- society search ----------
 function buildSearch() {
   const input = $('q'), list = $('q-results');
-  let items = [], active = -1;
+  let items = [], active = -1, queryTimer = null;
   const close = () => { list.hidden = true; active = -1; };
   const render = () => {
     const all = searchSocieties(data.societies, input.value, 400);
@@ -661,7 +671,7 @@ function buildSearch() {
       const li = document.createElement('li');
       li.className = 'showall';
       li.innerHTML = `<span>Show all ${all.length} matching "${esc(input.value.trim())}" on the map</span>`;
-      const pickShowAll = (e) => { e.preventDefault(); setQuery(input.value.trim()); close(); input.blur(); };
+      const pickShowAll = (e) => { e.preventDefault(); setQuery(input.value.trim(), { zoomMap: true }); close(); input.blur(); };
       li.onpointerdown = pickShowAll;
       li.onclick = pickShowAll;
       rows.unshift(li);
@@ -669,8 +679,23 @@ function buildSearch() {
     list.replaceChildren(...rows);
     list.hidden = false;
   };
-  const pick = (s) => { stopTour(); input.value = s.name; close(); input.blur(); if (isMobile()) window.scrollTo(0, 0); openSociety(s.id); };
-  input.oninput = () => { active = -1; render(); };
+  const pick = (s) => {
+    stopTour();
+    input.value = s.name;
+    setQuery(s.name, { zoomMap: false });
+    close();
+    input.blur();
+    if (isMobile()) window.scrollTo(0, 0);
+    openSociety(s.id);
+  };
+  input.oninput = () => {
+    active = -1;
+    render();
+    clearTimeout(queryTimer);
+    queryTimer = setTimeout(() => {
+      setQuery(input.value.trim(), { zoomMap: false });
+    }, 150);
+  };
   input.onfocus = render;
   input.onblur = () => { setTimeout(close, 200); };
   input.onkeydown = (e) => {
@@ -679,21 +704,35 @@ function buildSearch() {
       if (!items.length) return;
       active = (active + (e.key === 'ArrowDown' ? 1 : -1) + items.length) % items.length;
       render();
-    } else if (e.key === 'Enter' && items.length) pick(items[Math.max(0, active)]);
-    else if (e.key === 'Escape') { close(); input.blur(); }
+    } else if (e.key === 'Enter') {
+      e.preventDefault();
+      clearTimeout(queryTimer);
+      if (items.length && active >= 0) {
+        pick(items[active]);
+      } else {
+        setQuery(input.value.trim(), { zoomMap: true });
+        close();
+        input.blur();
+      }
+    } else if (e.key === 'Escape') {
+      close();
+      input.blur();
+      if (!input.value.trim()) setQuery('');
+    }
   };
   addEventListener('keydown', (e) => {
     if (e.key === '/' && !/INPUT|SELECT|TEXTAREA/.test(document.activeElement?.tagName)) { e.preventDefault(); input.focus(); }
   });
 }
 
-function setQuery(q) {
+function setQuery(q, { zoomMap = true } = {}) {
   crit.q = q;
+  if ($('q').value !== q) $('q').value = q;
   $('q-pill').hidden = !q;
   $('q-pill').innerHTML = q ? `Showing names matching "<b>${esc(q)}</b>" <button class="iconbtn" aria-label="Clear">×</button>` : '';
   $('q-pill').querySelector('button')?.addEventListener('click', () => { $('q').value = ''; setQuery(''); });
   applyFilters();
-  if (q && map) {
+  if (zoomMap && q && map) {
     const hits = data.societies.filter((s) => states.get(s.id) !== 'no');
     if (hits.length) {
       const b = hits.reduce((bb, s) => bb.extend([s.lng, s.lat]), new maplibregl.LngLatBounds([hits[0].lng, hits[0].lat], [hits[0].lng, hits[0].lat]));
