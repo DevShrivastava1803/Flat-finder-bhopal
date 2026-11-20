@@ -1,0 +1,422 @@
+{
+  "authority": "Madhya Pradesh Real Estate Regulatory Authority (MP-RERA)",
+  "city": "indore",
+  "societies": {
+    "s2001": {
+      "name": "Shalimar Township",
+      "locality": "Vijay Nagar",
+      "rera_id": "P-IND-17-0010",
+      "project": "https://rera.mp.gov.in/project_preview/P-IND-17-0010",
+      "authority": "Madhya Pradesh Real Estate Regulatory Authority (MP-RERA)",
+      "read": [
+        {
+          "doc": "Shalimar Township Master Plan - MP-RERA",
+          "pages": [
+            {
+              "bhk": 2,
+              "page": 1,
+              "super_sqft": 1150,
+              "carpet_sqft": 875,
+              "bedrooms": [
+                {
+                  "ft": [
+                    11.0,
+                    13.0
+                  ]
+                },
+                {
+                  "ft": [
+                    11.0,
+                    12.0
+                  ]
+                }
+              ]
+            },
+            {
+              "bhk": 3,
+              "page": 2,
+              "super_sqft": 1680,
+              "carpet_sqft": 1280,
+              "bedrooms": [
+                {
+                  "ft": [
+                    11.5,
+                    14.5
+                  ]
+                },
+                {
+                  "ft": [
+                    11.0,
+                    13.0
+                  ]
+                },
+                {
+                  "ft": [
+                    11.0,
+                    12.0
+                  ]
+                }
+              ]
+            },
+            {
+              "bhk": 4,
+              "page": 3,
+              "super_sqft": 2350,
+              "carpet_sqft": 1810,
+              "bedrooms": [
+                {
+                  "ft": [
+                    12.5,
+                    16.0
+                  ]
+                },
+                {
+                  "ft": [
+                    12.0,
+                    14.5
+                  ]
+                },
+                {
+                  "ft": [
+                    11.5,
+                    13.5
+                  ]
+                },
+                {
+                  "ft": [
+                    11.0,
+                    12.5
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "s2005": {
+      "name": "Skye Luxuria",
+      "locality": "Nipania",
+      "rera_id": "P-IND-18-0890",
+      "project": "https://rera.mp.gov.in/project_preview/P-IND-18-0890",
+      "authority": "Madhya Pradesh Real Estate Regulatory Authority (MP-RERA)",
+      "read": [
+        {
+          "doc": "Skye Luxuria High Rise Approval Filing",
+          "pages": [
+            {
+              "bhk": 3,
+              "page": 1,
+              "super_sqft": 1850,
+              "carpet_sqft": 1420,
+              "bedrooms": [
+                {
+                  "ft": [
+                    13.0,
+                    16.0
+                  ]
+                },
+                {
+                  "ft": [
+                    12.0,
+                    14.5
+                  ]
+                },
+                {
+                  "ft": [
+                    11.5,
+                    13.0
+                  ]
+                }
+              ]
+            },
+            {
+              "bhk": 4,
+              "page": 2,
+              "super_sqft": 2600,
+              "carpet_sqft": 2020,
+              "bedrooms": [
+                {
+                  "ft": [
+                    14.0,
+                    18.0
+                  ]
+                },
+                {
+                  "ft": [
+                    13.0,
+                    15.5
+                  ]
+                },
+                {
+                  "ft": [
+                    12.0,
+                    14.0
+                  ]
+                },
+                {
+                  "ft": [
+                    11.5,
+                    13.0
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "s2011": {
+      "name": "Silver Springs Township",
+      "locality": "AB Bypass Road",
+      "rera_id": "P-IND-17-0021",
+      "project": "https://rera.mp.gov.in/project_preview/P-IND-17-0021",
+      "authority": "Madhya Pradesh Real Estate Regulatory Authority (MP-RERA)",
+      "read": [
+        {
+          "doc": "Silver Realties Township Approval Drawing",
+          "pages": [
+            {
+              "bhk": 2,
+              "page": 1,
+              "super_sqft": 1100,
+              "carpet_sqft": 840,
+              "bedrooms": [
+                {
+                  "ft": [
+                    10.5,
+                    12.5
+                  ]
+                },
+                {
+                  "ft": [
+                    10.0,
+                    11.5
+                  ]
+                }
+              ]
+            },
+            {
+              "bhk": 3,
+              "page": 2,
+              "super_sqft": 1600,
+              "carpet_sqft": 1220,
+              "bedrooms": [
+                {
+                  "ft": [
+                    11.5,
+                    14.0
+                  ]
+                },
+                {
+                  "ft": [
+                    11.0,
+                    12.5
+                  ]
+                },
+                {
+                  "ft": [
+                    10.5,
+                    11.5
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "s2014": {
+      "name": "Treasure Fantasy",
+      "locality": "Rau",
+      "rera_id": "P-IND-17-0155",
+      "project": "https://rera.mp.gov.in/project_preview/P-IND-17-0155",
+      "authority": "Madhya Pradesh Real Estate Regulatory Authority (MP-RERA)",
+      "read": [
+        {
+          "doc": "Treasure Fantasy Rau Sanctioned Layout",
+          "pages": [
+            {
+              "bhk": 2,
+              "page": 1,
+              "super_sqft": 1040,
+              "carpet_sqft": 790,
+              "bedrooms": [
+                {
+                  "ft": [
+                    10.5,
+                    12.0
+                  ]
+                },
+                {
+                  "ft": [
+                    10.0,
+                    11.0
+                  ]
+                }
+              ]
+            },
+            {
+              "bhk": 3,
+              "page": 2,
+              "super_sqft": 1480,
+              "carpet_sqft": 1130,
+              "bedrooms": [
+                {
+                  "ft": [
+                    11.0,
+                    13.5
+                  ]
+                },
+                {
+                  "ft": [
+                    10.5,
+                    12.0
+                  ]
+                },
+                {
+                  "ft": [
+                    10.0,
+                    11.0
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "s2016": {
+      "name": "DB Pride",
+      "locality": "AB Bypass Road",
+      "rera_id": "P-IND-18-0620",
+      "project": "https://rera.mp.gov.in/project_preview/P-IND-18-0620",
+      "authority": "Madhya Pradesh Real Estate Regulatory Authority (MP-RERA)",
+      "read": [
+        {
+          "doc": "DB Pride Bypass Luxury Apartment Plan",
+          "pages": [
+            {
+              "bhk": 3,
+              "page": 1,
+              "super_sqft": 1750,
+              "carpet_sqft": 1340,
+              "bedrooms": [
+                {
+                  "ft": [
+                    12.5,
+                    15.0
+                  ]
+                },
+                {
+                  "ft": [
+                    11.5,
+                    13.5
+                  ]
+                },
+                {
+                  "ft": [
+                    11.0,
+                    12.5
+                  ]
+                }
+              ]
+            },
+            {
+              "bhk": 4,
+              "page": 2,
+              "super_sqft": 2500,
+              "carpet_sqft": 1940,
+              "bedrooms": [
+                {
+                  "ft": [
+                    13.5,
+                    17.0
+                  ]
+                },
+                {
+                  "ft": [
+                    12.5,
+                    14.5
+                  ]
+                },
+                {
+                  "ft": [
+                    11.5,
+                    13.5
+                  ]
+                },
+                {
+                  "ft": [
+                    11.0,
+                    12.5
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "s2026": {
+      "name": "DCNPL Hills Vista",
+      "locality": "Super Corridor",
+      "rera_id": "P-IND-18-0650",
+      "project": "https://rera.mp.gov.in/project_preview/P-IND-18-0650",
+      "authority": "Madhya Pradesh Real Estate Regulatory Authority (MP-RERA)",
+      "read": [
+        {
+          "doc": "DCNPL Hills Vista Super Corridor Filing",
+          "pages": [
+            {
+              "bhk": 2,
+              "page": 1,
+              "super_sqft": 1080,
+              "carpet_sqft": 820,
+              "bedrooms": [
+                {
+                  "ft": [
+                    10.5,
+                    12.0
+                  ]
+                },
+                {
+                  "ft": [
+                    10.0,
+                    11.5
+                  ]
+                }
+              ]
+            },
+            {
+              "bhk": 3,
+              "page": 2,
+              "super_sqft": 1550,
+              "carpet_sqft": 1180,
+              "bedrooms": [
+                {
+                  "ft": [
+                    11.0,
+                    13.5
+                  ]
+                },
+                {
+                  "ft": [
+                    10.5,
+                    12.5
+                  ]
+                },
+                {
+                  "ft": [
+                    10.0,
+                    11.5
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

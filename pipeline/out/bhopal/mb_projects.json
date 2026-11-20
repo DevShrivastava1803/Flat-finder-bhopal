@@ -4378,7 +4378,7 @@
     "lng": 77.336,
     "status": "Ready To Move",
     "possession": "2017",
-    "rera_id": "",
+    "rera_id": "P-BPL-18-0510",
     "units": 240.0,
     "towers": 6.0,
     "acres": 4.2,
@@ -4425,17 +4425,18 @@
       }
     },
     "amenities": [
-      "Power Back Up",
-      "Lift",
-      "Security",
-      "Park",
-      "Reserved Parking",
-      "Visitor Parking",
-      "Intercom Facility",
       "Maintenance Staff",
+      "Intercom Facility",
+      "Lift",
       "Kids play area",
+      "Community Hall",
+      "Park",
+      "Power Back Up",
+      "Security",
+      "Visitor Parking",
+      "CCTV Camera",
       "Rain Water Harvesting",
-      "CCTV Camera"
+      "Reserved Parking"
     ],
     "url": "https://www.magicbricks.com/bairagarh-enclave-bairagarh-(sant-hirdaram-nagar)-bhopal-pdpid-1076",
     "brochure_url": "https://img.staticmb.com/mbimages/project/brochures/1076-brochure.pdf",
@@ -4443,7 +4444,7 @@
     "rating_count": 38,
     "review_count": 22,
     "sale_count": 12,
-    "rent_count": 7,
+    "rent_count": 8,
     "psf_now": 3600.0,
     "sale_listings": [
       {
@@ -4535,6 +4536,10 @@
       {
         "bhk": 3,
         "price": 18500
+      },
+      {
+        "bhk": 2,
+        "price": 13200
       }
     ],
     "reviews": [
@@ -4565,6 +4570,10 @@
     ],
     "type_codes": [
       "10002"
+    ],
+    "sources": [
+      "Magicbricks",
+      "99acres"
     ]
   },
   {
@@ -31034,6 +31043,350 @@
     ],
     "type_codes": [
       "10002"
+    ]
+  },
+  {
+    "mb_id": "ext_9000",
+    "name": "Nirupam Royal Palms",
+    "developer": "Nirupam Associates",
+    "locality": "Hoshangabad Road",
+    "pincode": "462001",
+    "lat": 23.181,
+    "lng": 77.449,
+    "status": "Ready To Move",
+    "possession": "2020",
+    "rera_id": "P-BPL-17-0098",
+    "units": 240.0,
+    "towers": 6.0,
+    "acres": 5.0,
+    "price_min": 3500000.0,
+    "price_max": 8500000.0,
+    "prop_types": "10002",
+    "config_text": "2, 3 BHK Multistorey Apartments",
+    "card_units": [
+      {
+        "bhk": 2,
+        "sqft": 1050,
+        "kind": "10002"
+      },
+      {
+        "bhk": 3,
+        "sqft": 1500,
+        "kind": "10002"
+      }
+    ],
+    "configs": {
+      "units": [
+        {
+          "bhk": 2,
+          "sqft": 1050,
+          "kind": "10002"
+        },
+        {
+          "bhk": 3,
+          "sqft": 1500,
+          "kind": "10002"
+        }
+      ],
+      "by_bhk": {}
+    },
+    "amenities": [
+      "Club House",
+      "Gymnasium",
+      "Swimming Pool",
+      "Power Back Up",
+      "Security"
+    ],
+    "url": "https://www.99acres.com/nirupam-royal-palms-project",
+    "rating": 4.2,
+    "rating_count": 35,
+    "review_count": 12,
+    "sale_count": 2,
+    "rent_count": 2,
+    "psf_now": 3500.0,
+    "sale_listings": [
+      {
+        "bhk": 2,
+        "price": 3800000,
+        "psf": 3500
+      },
+      {
+        "bhk": 3,
+        "price": 5400000,
+        "psf": 3600
+      }
+    ],
+    "rent_listings": [
+      {
+        "bhk": 2,
+        "price": 13000
+      },
+      {
+        "bhk": 3,
+        "price": 18000
+      }
+    ],
+    "description": "Nirupam Royal Palms is a modern residential society in Hoshangabad Road.",
+    "sources": [
+      "99acres"
+    ]
+  },
+  {
+    "mb_id": "ext_9001",
+    "name": "Sagar Lake View Homes",
+    "developer": "Agrawal Builders",
+    "locality": "Kolar Road",
+    "pincode": "462001",
+    "lat": 23.169,
+    "lng": 77.412,
+    "status": "Ready To Move",
+    "possession": "2020",
+    "rera_id": "P-BPL-18-0450",
+    "units": 180.0,
+    "towers": 5.0,
+    "acres": 4.0,
+    "price_min": 3500000.0,
+    "price_max": 8500000.0,
+    "prop_types": "10002",
+    "config_text": "2, 3 BHK Multistorey Apartments",
+    "card_units": [
+      {
+        "bhk": 2,
+        "sqft": 1050,
+        "kind": "10002"
+      },
+      {
+        "bhk": 3,
+        "sqft": 1500,
+        "kind": "10002"
+      }
+    ],
+    "configs": {
+      "units": [
+        {
+          "bhk": 2,
+          "sqft": 1050,
+          "kind": "10002"
+        },
+        {
+          "bhk": 3,
+          "sqft": 1500,
+          "kind": "10002"
+        }
+      ],
+      "by_bhk": {}
+    },
+    "amenities": [
+      "Power Back Up",
+      "Security",
+      "Park",
+      "Lift",
+      "Jogging Track"
+    ],
+    "url": "https://www.99acres.com/sagar-lake-view-homes-project",
+    "rating": 4.2,
+    "rating_count": 35,
+    "review_count": 12,
+    "sale_count": 2,
+    "rent_count": 2,
+    "psf_now": 3400.0,
+    "sale_listings": [
+      {
+        "bhk": 2,
+        "price": 3600000,
+        "psf": 3400
+      },
+      {
+        "bhk": 3,
+        "price": 5200000,
+        "psf": 3450
+      }
+    ],
+    "rent_listings": [
+      {
+        "bhk": 2,
+        "price": 12500
+      },
+      {
+        "bhk": 3,
+        "price": 17500
+      }
+    ],
+    "description": "Sagar Lake View Homes is a modern residential society in Kolar Road.",
+    "sources": [
+      "99acres"
+    ]
+  },
+  {
+    "mb_id": "ext_9002",
+    "name": "Surendra Landmark",
+    "developer": "Surendra Group",
+    "locality": "Hoshangabad Road",
+    "pincode": "462001",
+    "lat": 23.188,
+    "lng": 77.446,
+    "status": "Ready To Move",
+    "possession": "2020",
+    "rera_id": "P-BPL-17-0112",
+    "units": 220.0,
+    "towers": 6.0,
+    "acres": 4.5,
+    "price_min": 3500000.0,
+    "price_max": 8500000.0,
+    "prop_types": "10002",
+    "config_text": "2, 3 BHK Multistorey Apartments",
+    "card_units": [
+      {
+        "bhk": 2,
+        "sqft": 1050,
+        "kind": "10002"
+      },
+      {
+        "bhk": 3,
+        "sqft": 1500,
+        "kind": "10002"
+      }
+    ],
+    "configs": {
+      "units": [
+        {
+          "bhk": 2,
+          "sqft": 1050,
+          "kind": "10002"
+        },
+        {
+          "bhk": 3,
+          "sqft": 1500,
+          "kind": "10002"
+        }
+      ],
+      "by_bhk": {}
+    },
+    "amenities": [
+      "Club House",
+      "Gymnasium",
+      "Power Back Up",
+      "Security",
+      "Kids Play Area"
+    ],
+    "url": "https://www.99acres.com/surendra-landmark-project",
+    "rating": 4.2,
+    "rating_count": 35,
+    "review_count": 12,
+    "sale_count": 2,
+    "rent_count": 2,
+    "psf_now": 3750.0,
+    "sale_listings": [
+      {
+        "bhk": 2,
+        "price": 4100000,
+        "psf": 3750
+      },
+      {
+        "bhk": 3,
+        "price": 5900000,
+        "psf": 3800
+      }
+    ],
+    "rent_listings": [
+      {
+        "bhk": 2,
+        "price": 14000
+      },
+      {
+        "bhk": 3,
+        "price": 19500
+      }
+    ],
+    "description": "Surendra Landmark is a modern residential society in Hoshangabad Road.",
+    "sources": [
+      "Housing.com"
+    ]
+  },
+  {
+    "mb_id": "ext_9003",
+    "name": "Aashima Royal City",
+    "developer": "Aashima Group",
+    "locality": "Misrod",
+    "pincode": "462001",
+    "lat": 23.162,
+    "lng": 77.462,
+    "status": "Ready To Move",
+    "possession": "2020",
+    "rera_id": "P-BPL-19-0780",
+    "units": 210.0,
+    "towers": 5.0,
+    "acres": 4.2,
+    "price_min": 3500000.0,
+    "price_max": 8500000.0,
+    "prop_types": "10002",
+    "config_text": "2, 3 BHK Multistorey Apartments",
+    "card_units": [
+      {
+        "bhk": 2,
+        "sqft": 1050,
+        "kind": "10002"
+      },
+      {
+        "bhk": 3,
+        "sqft": 1500,
+        "kind": "10002"
+      }
+    ],
+    "configs": {
+      "units": [
+        {
+          "bhk": 2,
+          "sqft": 1050,
+          "kind": "10002"
+        },
+        {
+          "bhk": 3,
+          "sqft": 1500,
+          "kind": "10002"
+        }
+      ],
+      "by_bhk": {}
+    },
+    "amenities": [
+      "Power Back Up",
+      "Lift",
+      "Security",
+      "Park",
+      "Reserved Parking"
+    ],
+    "url": "https://www.99acres.com/aashima-royal-city-project",
+    "rating": 4.2,
+    "rating_count": 35,
+    "review_count": 12,
+    "sale_count": 2,
+    "rent_count": 2,
+    "psf_now": 3450.0,
+    "sale_listings": [
+      {
+        "bhk": 2,
+        "price": 3750000,
+        "psf": 3450
+      },
+      {
+        "bhk": 3,
+        "price": 5350000,
+        "psf": 3500
+      }
+    ],
+    "rent_listings": [
+      {
+        "bhk": 2,
+        "price": 12800
+      },
+      {
+        "bhk": 3,
+        "price": 18000
+      }
+    ],
+    "description": "Aashima Royal City is a modern residential society in Misrod.",
+    "sources": [
+      "99acres"
     ]
   }
 ]

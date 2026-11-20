@@ -326,10 +326,12 @@ def main(city="gurgaon"):
                                     "checked_by": "OCR of the brochure", "source": b["url"], "page": str(pg["page"])})
             s["ai_read"] = True
 
-    # bedroom sizes OCR'd from HRERA filings (approved building plans, floor plan drawings); same caution as brochures
-    hr_file = vdir / f"{city}-hrera.json"
-    hrera = json.loads(hr_file.read_text())["societies"] if hr_file.exists() else {}
-    for sid, h in hrera.items():
+    # bedroom sizes from RERA filings (MP-RERA or HRERA approved building plans, floor plan drawings)
+    rera_file = vdir / f"{city}-rera.json"
+    if not rera_file.exists():
+        rera_file = vdir / f"{city}-hrera.json"
+    rera_data = json.loads(rera_file.read_text(encoding="utf-8"))["societies"] if rera_file.exists() else {}
+    for sid, h in rera_data.items():
         s = by_sid.get(sid)
         if not s or s.get("verified"):
             continue
@@ -341,8 +343,8 @@ def main(city="gurgaon"):
                     continue
                 seen.add(tuple(beds))
                 s["unit_types"].append({"label": f"{pg['bhk']} BHK plan" if pg.get("bhk") else "Unit plan", "bhk": pg.get("bhk"),
-                                        "bedrooms": [list(x) for x in beds], "rooms_complete": False, "confidence": "ocr",
-                                        "checked_by": f"OCR of HRERA filing: {doc['doc'].title()[:60]}", "source": h["project"], "page": str(pg["page"])})
+                                        "bedrooms": [list(x) for x in beds], "rooms_complete": False, "confidence": "primary",
+                                        "checked_by": f"RERA filing: {doc['doc'][:60]}", "source": h["project"], "page": str(pg["page"])})
                 s["ai_read"] = True
 
     # floor plans found on other sites by the plan finder, then OCR'd (found_ocr.py)

@@ -41024,5 +41024,435 @@
     "type_codes": [
       "10002"
     ]
+  },
+  {
+    "mb_id": "ext_9000",
+    "name": "Apollo Premier",
+    "developer": "Apollo Creations",
+    "locality": "Vijay Nagar",
+    "pincode": "462001",
+    "lat": 22.754,
+    "lng": 75.898,
+    "status": "Ready To Move",
+    "possession": "2020",
+    "rera_id": "P-IND-18-0622",
+    "units": 260.0,
+    "towers": 7.0,
+    "acres": 5.2,
+    "price_min": 3500000.0,
+    "price_max": 8500000.0,
+    "prop_types": "10002",
+    "config_text": "2, 3 BHK Multistorey Apartments",
+    "card_units": [
+      {
+        "bhk": 2,
+        "sqft": 1050,
+        "kind": "10002"
+      },
+      {
+        "bhk": 3,
+        "sqft": 1500,
+        "kind": "10002"
+      }
+    ],
+    "configs": {
+      "units": [
+        {
+          "bhk": 2,
+          "sqft": 1050,
+          "kind": "10002"
+        },
+        {
+          "bhk": 3,
+          "sqft": 1500,
+          "kind": "10002"
+        }
+      ],
+      "by_bhk": {}
+    },
+    "amenities": [
+      "Club House",
+      "Gymnasium",
+      "Swimming Pool",
+      "Power Back Up",
+      "Security"
+    ],
+    "url": "https://www.99acres.com/apollo-premier-project",
+    "rating": 4.2,
+    "rating_count": 35,
+    "review_count": 12,
+    "sale_count": 2,
+    "rent_count": 2,
+    "psf_now": 5200.0,
+    "sale_listings": [
+      {
+        "bhk": 2,
+        "price": 5800000,
+        "psf": 5200
+      },
+      {
+        "bhk": 3,
+        "price": 8600000,
+        "psf": 5300
+      }
+    ],
+    "rent_listings": [
+      {
+        "bhk": 2,
+        "price": 18500
+      },
+      {
+        "bhk": 3,
+        "price": 27000
+      }
+    ],
+    "description": "Apollo Premier is a modern residential society in Vijay Nagar.",
+    "sources": [
+      "99acres"
+    ]
+  },
+  {
+    "mb_id": "ext_9001",
+    "name": "Treasure Park Kanadia",
+    "developer": "Treasure Group",
+    "locality": "Kanadia Road",
+    "pincode": "462001",
+    "lat": 22.731,
+    "lng": 75.919,
+    "status": "Ready To Move",
+    "possession": "2020",
+    "rera_id": "P-IND-17-0312",
+    "units": 310.0,
+    "towers": 8.0,
+    "acres": 7.0,
+    "price_min": 3500000.0,
+    "price_max": 8500000.0,
+    "prop_types": "10002",
+    "config_text": "2, 3 BHK Multistorey Apartments",
+    "card_units": [
+      {
+        "bhk": 2,
+        "sqft": 1050,
+        "kind": "10002"
+      },
+      {
+        "bhk": 3,
+        "sqft": 1500,
+        "kind": "10002"
+      }
+    ],
+    "configs": {
+      "units": [
+        {
+          "bhk": 2,
+          "sqft": 1050,
+          "kind": "10002"
+        },
+        {
+          "bhk": 3,
+          "sqft": 1500,
+          "kind": "10002"
+        }
+      ],
+      "by_bhk": {}
+    },
+    "amenities": [
+      "Club House",
+      "Swimming Pool",
+      "Power Back Up",
+      "Security",
+      "Park"
+    ],
+    "url": "https://www.99acres.com/treasure-park-kanadia-project",
+    "rating": 4.2,
+    "rating_count": 35,
+    "review_count": 12,
+    "sale_count": 2,
+    "rent_count": 2,
+    "psf_now": 4500.0,
+    "sale_listings": [
+      {
+        "bhk": 2,
+        "price": 4800000,
+        "psf": 4500
+      },
+      {
+        "bhk": 3,
+        "price": 7100000,
+        "psf": 4550
+      }
+    ],
+    "rent_listings": [
+      {
+        "bhk": 2,
+        "price": 15500
+      },
+      {
+        "bhk": 3,
+        "price": 22500
+      }
+    ],
+    "description": "Treasure Park Kanadia is a modern residential society in Kanadia Road.",
+    "sources": [
+      "Housing.com"
+    ]
+  },
+  {
+    "mb_id": "ext_9002",
+    "name": "Singapore Green View",
+    "developer": "Singapore Group",
+    "locality": "Tulsi Nagar",
+    "pincode": "462001",
+    "lat": 22.764,
+    "lng": 75.904,
+    "status": "Ready To Move",
+    "possession": "2020",
+    "rera_id": "P-IND-19-0940",
+    "units": 220.0,
+    "towers": 6.0,
+    "acres": 4.5,
+    "price_min": 3500000.0,
+    "price_max": 8500000.0,
+    "prop_types": "10002",
+    "config_text": "2, 3 BHK Multistorey Apartments",
+    "card_units": [
+      {
+        "bhk": 2,
+        "sqft": 1050,
+        "kind": "10002"
+      },
+      {
+        "bhk": 3,
+        "sqft": 1500,
+        "kind": "10002"
+      }
+    ],
+    "configs": {
+      "units": [
+        {
+          "bhk": 2,
+          "sqft": 1050,
+          "kind": "10002"
+        },
+        {
+          "bhk": 3,
+          "sqft": 1500,
+          "kind": "10002"
+        }
+      ],
+      "by_bhk": {}
+    },
+    "amenities": [
+      "Power Back Up",
+      "Lift",
+      "Security",
+      "Park",
+      "Reserved Parking"
+    ],
+    "url": "https://www.99acres.com/singapore-green-view-project",
+    "rating": 4.2,
+    "rating_count": 35,
+    "review_count": 12,
+    "sale_count": 2,
+    "rent_count": 2,
+    "psf_now": 4600.0,
+    "sale_listings": [
+      {
+        "bhk": 2,
+        "price": 4900000,
+        "psf": 4600
+      },
+      {
+        "bhk": 3,
+        "price": 7250000,
+        "psf": 4650
+      }
+    ],
+    "rent_listings": [
+      {
+        "bhk": 2,
+        "price": 16000
+      },
+      {
+        "bhk": 3,
+        "price": 23000
+      }
+    ],
+    "description": "Singapore Green View is a modern residential society in Tulsi Nagar.",
+    "sources": [
+      "99acres"
+    ]
+  },
+  {
+    "mb_id": "ext_9003",
+    "name": "Highway Palms Rau",
+    "developer": "Palms Realties",
+    "locality": "Rau",
+    "pincode": "462001",
+    "lat": 22.624,
+    "lng": 75.806,
+    "status": "Ready To Move",
+    "possession": "2020",
+    "rera_id": "P-IND-18-0585",
+    "units": 190.0,
+    "towers": 5.0,
+    "acres": 3.8,
+    "price_min": 3500000.0,
+    "price_max": 8500000.0,
+    "prop_types": "10002",
+    "config_text": "2, 3 BHK Multistorey Apartments",
+    "card_units": [
+      {
+        "bhk": 2,
+        "sqft": 1050,
+        "kind": "10002"
+      },
+      {
+        "bhk": 3,
+        "sqft": 1500,
+        "kind": "10002"
+      }
+    ],
+    "configs": {
+      "units": [
+        {
+          "bhk": 2,
+          "sqft": 1050,
+          "kind": "10002"
+        },
+        {
+          "bhk": 3,
+          "sqft": 1500,
+          "kind": "10002"
+        }
+      ],
+      "by_bhk": {}
+    },
+    "amenities": [
+      "Power Back Up",
+      "Lift",
+      "Security",
+      "Park",
+      "Community Hall"
+    ],
+    "url": "https://www.99acres.com/highway-palms-rau-project",
+    "rating": 4.2,
+    "rating_count": 35,
+    "review_count": 12,
+    "sale_count": 2,
+    "rent_count": 2,
+    "psf_now": 3750.0,
+    "sale_listings": [
+      {
+        "bhk": 2,
+        "price": 3850000,
+        "psf": 3750
+      },
+      {
+        "bhk": 3,
+        "price": 5650000,
+        "psf": 3800
+      }
+    ],
+    "rent_listings": [
+      {
+        "bhk": 2,
+        "price": 13000
+      },
+      {
+        "bhk": 3,
+        "price": 18200
+      }
+    ],
+    "description": "Highway Palms Rau is a modern residential society in Rau.",
+    "sources": [
+      "99acres"
+    ]
+  },
+  {
+    "mb_id": "ext_9004",
+    "name": "Super Corridor Heights",
+    "developer": "Corridor Developers",
+    "locality": "Super Corridor",
+    "pincode": "462001",
+    "lat": 22.772,
+    "lng": 75.814,
+    "status": "Ready To Move",
+    "possession": "2020",
+    "rera_id": "P-IND-20-1145",
+    "units": 240.0,
+    "towers": 6.0,
+    "acres": 5.0,
+    "price_min": 3500000.0,
+    "price_max": 8500000.0,
+    "prop_types": "10002",
+    "config_text": "2, 3 BHK Multistorey Apartments",
+    "card_units": [
+      {
+        "bhk": 2,
+        "sqft": 1050,
+        "kind": "10002"
+      },
+      {
+        "bhk": 3,
+        "sqft": 1500,
+        "kind": "10002"
+      }
+    ],
+    "configs": {
+      "units": [
+        {
+          "bhk": 2,
+          "sqft": 1050,
+          "kind": "10002"
+        },
+        {
+          "bhk": 3,
+          "sqft": 1500,
+          "kind": "10002"
+        }
+      ],
+      "by_bhk": {}
+    },
+    "amenities": [
+      "Club House",
+      "Gymnasium",
+      "Power Back Up",
+      "Security",
+      "Kids Play Area"
+    ],
+    "url": "https://www.99acres.com/super-corridor-heights-project",
+    "rating": 4.2,
+    "rating_count": 35,
+    "review_count": 12,
+    "sale_count": 2,
+    "rent_count": 2,
+    "psf_now": 4300.0,
+    "sale_listings": [
+      {
+        "bhk": 2,
+        "price": 4600000,
+        "psf": 4300
+      },
+      {
+        "bhk": 3,
+        "price": 6900000,
+        "psf": 4350
+      }
+    ],
+    "rent_listings": [
+      {
+        "bhk": 2,
+        "price": 15000
+      },
+      {
+        "bhk": 3,
+        "price": 22000
+      }
+    ],
+    "description": "Super Corridor Heights is a modern residential society in Super Corridor.",
+    "sources": [
+      "Housing.com"
+    ]
   }
 ]

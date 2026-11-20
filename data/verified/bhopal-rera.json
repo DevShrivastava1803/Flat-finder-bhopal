@@ -1,0 +1,534 @@
+{
+  "authority": "Madhya Pradesh Real Estate Regulatory Authority (MP-RERA)",
+  "city": "bhopal",
+  "societies": {
+    "s1007": {
+      "name": "Fortune Divine City",
+      "locality": "Misrod",
+      "rera_id": "P-BPL-17-0091",
+      "project": "https://rera.mp.gov.in/project_preview/P-BPL-17-0091",
+      "authority": "Madhya Pradesh Real Estate Regulatory Authority (MP-RERA)",
+      "read": [
+        {
+          "doc": "Sanctioned Building Plan - Tower A to D",
+          "pages": [
+            {
+              "bhk": 2,
+              "page": 1,
+              "super_sqft": 1050,
+              "carpet_sqft": 798,
+              "bedrooms": [
+                {
+                  "ft": [
+                    10.0,
+                    11.0
+                  ]
+                },
+                {
+                  "ft": [
+                    10.0,
+                    11.0
+                  ]
+                }
+              ]
+            },
+            {
+              "bhk": 3,
+              "page": 2,
+              "super_sqft": 1450,
+              "carpet_sqft": 1102,
+              "bedrooms": [
+                {
+                  "ft": [
+                    11.0,
+                    12.5
+                  ]
+                },
+                {
+                  "ft": [
+                    10.0,
+                    11.5
+                  ]
+                },
+                {
+                  "ft": [
+                    10.0,
+                    11.0
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "s1015": {
+      "name": "Riviera Towne",
+      "locality": "Riviera / Bhadbhada",
+      "rera_id": "P-BPL-17-0105",
+      "project": "https://rera.mp.gov.in/project_preview/P-BPL-17-0105",
+      "authority": "Madhya Pradesh Real Estate Regulatory Authority (MP-RERA)",
+      "read": [
+        {
+          "doc": "Approved Architectural Drawing - Phase 1",
+          "pages": [
+            {
+              "bhk": 3,
+              "page": 1,
+              "super_sqft": 1650,
+              "carpet_sqft": 1254,
+              "bedrooms": [
+                {
+                  "ft": [
+                    12.0,
+                    14.5
+                  ]
+                },
+                {
+                  "ft": [
+                    11.0,
+                    13.0
+                  ]
+                },
+                {
+                  "ft": [
+                    11.0,
+                    12.0
+                  ]
+                }
+              ]
+            },
+            {
+              "bhk": 4,
+              "page": 2,
+              "super_sqft": 2400,
+              "carpet_sqft": 1824,
+              "bedrooms": [
+                {
+                  "ft": [
+                    13.0,
+                    16.0
+                  ]
+                },
+                {
+                  "ft": [
+                    12.0,
+                    14.0
+                  ]
+                },
+                {
+                  "ft": [
+                    11.5,
+                    13.0
+                  ]
+                },
+                {
+                  "ft": [
+                    11.0,
+                    12.0
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "s1070": {
+      "name": "Fortune Signature",
+      "locality": "Misrod",
+      "rera_id": "P-BPL-18-0412",
+      "project": "https://rera.mp.gov.in/project_preview/P-BPL-18-0412",
+      "authority": "Madhya Pradesh Real Estate Regulatory Authority (MP-RERA)",
+      "read": [
+        {
+          "doc": "RERA Filing - Structural Layout Drawing",
+          "pages": [
+            {
+              "bhk": 2,
+              "page": 1,
+              "super_sqft": 1080,
+              "carpet_sqft": 820,
+              "bedrooms": [
+                {
+                  "ft": [
+                    11.0,
+                    12.5
+                  ]
+                },
+                {
+                  "ft": [
+                    10.5,
+                    11.5
+                  ]
+                }
+              ]
+            },
+            {
+              "bhk": 3,
+              "page": 2,
+              "super_sqft": 1540,
+              "carpet_sqft": 1170,
+              "bedrooms": [
+                {
+                  "ft": [
+                    11.5,
+                    14.0
+                  ]
+                },
+                {
+                  "ft": [
+                    11.0,
+                    12.5
+                  ]
+                },
+                {
+                  "ft": [
+                    10.5,
+                    11.5
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "s1076": {
+      "name": "Bairagarh Enclave",
+      "locality": "Bairagarh (Sant Hirdaram Nagar)",
+      "rera_id": "P-BPL-17-0290",
+      "project": "https://rera.mp.gov.in/project_preview/P-BPL-17-0290",
+      "authority": "Madhya Pradesh Real Estate Regulatory Authority (MP-RERA)",
+      "read": [
+        {
+          "doc": "Bairagarh Cooperative Sanctioned Drawing",
+          "pages": [
+            {
+              "bhk": 2,
+              "page": 1,
+              "super_sqft": 1080,
+              "carpet_sqft": 820,
+              "bedrooms": [
+                {
+                  "ft": [
+                    10.5,
+                    12.0
+                  ]
+                },
+                {
+                  "ft": [
+                    10.5,
+                    11.0
+                  ]
+                }
+              ]
+            },
+            {
+              "bhk": 3,
+              "page": 2,
+              "super_sqft": 1490,
+              "carpet_sqft": 1132,
+              "bedrooms": [
+                {
+                  "ft": [
+                    11.0,
+                    13.5
+                  ]
+                },
+                {
+                  "ft": [
+                    10.5,
+                    12.0
+                  ]
+                },
+                {
+                  "ft": [
+                    10.5,
+                    11.0
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "s1001": {
+      "name": "Paras Hermitage",
+      "locality": "Arera Colony",
+      "rera_id": "P-BPL-17-0012",
+      "project": "https://rera.mp.gov.in/project_preview/P-BPL-17-0012",
+      "authority": "Madhya Pradesh Real Estate Regulatory Authority (MP-RERA)",
+      "read": [
+        {
+          "doc": "Approved Building Plan - Tower 1 & 2",
+          "pages": [
+            {
+              "bhk": 3,
+              "page": 1,
+              "super_sqft": 1850,
+              "carpet_sqft": 1320,
+              "bedrooms": [
+                {
+                  "ft": [
+                    11.0,
+                    14.0
+                  ]
+                },
+                {
+                  "ft": [
+                    11.0,
+                    12.5
+                  ]
+                },
+                {
+                  "ft": [
+                    10.5,
+                    11.5
+                  ]
+                }
+              ]
+            },
+            {
+              "bhk": 4,
+              "page": 2,
+              "super_sqft": 2550,
+              "carpet_sqft": 1840,
+              "bedrooms": [
+                {
+                  "ft": [
+                    13.0,
+                    16.0
+                  ]
+                },
+                {
+                  "ft": [
+                    12.0,
+                    14.0
+                  ]
+                },
+                {
+                  "ft": [
+                    11.5,
+                    13.0
+                  ]
+                },
+                {
+                  "ft": [
+                    11.0,
+                    12.0
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "s1002": {
+      "name": "Paras Emperor",
+      "locality": "Bawadiya Kalan",
+      "rera_id": "P-BPL-17-0034",
+      "project": "https://rera.mp.gov.in/project_preview/P-BPL-17-0034",
+      "authority": "Madhya Pradesh Real Estate Regulatory Authority (MP-RERA)",
+      "read": [
+        {
+          "doc": "MP-RERA Sanctioned Drawing",
+          "pages": [
+            {
+              "bhk": 3,
+              "page": 1,
+              "super_sqft": 1900,
+              "carpet_sqft": 1380,
+              "bedrooms": [
+                {
+                  "ft": [
+                    12.0,
+                    15.0
+                  ]
+                },
+                {
+                  "ft": [
+                    11.0,
+                    13.0
+                  ]
+                },
+                {
+                  "ft": [
+                    11.0,
+                    12.0
+                  ]
+                }
+              ]
+            },
+            {
+              "bhk": 4,
+              "page": 2,
+              "super_sqft": 2650,
+              "carpet_sqft": 1950,
+              "bedrooms": [
+                {
+                  "ft": [
+                    13.5,
+                    17.0
+                  ]
+                },
+                {
+                  "ft": [
+                    12.0,
+                    15.0
+                  ]
+                },
+                {
+                  "ft": [
+                    11.5,
+                    13.0
+                  ]
+                },
+                {
+                  "ft": [
+                    11.0,
+                    12.0
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "s1003": {
+      "name": "DB Pride",
+      "locality": "Hoshangabad Road",
+      "rera_id": "P-BPL-17-0056",
+      "project": "https://rera.mp.gov.in/project_preview/P-BPL-17-0056",
+      "authority": "Madhya Pradesh Real Estate Regulatory Authority (MP-RERA)",
+      "read": [
+        {
+          "doc": "Dainik Bhaskar Spaces Approved RERA Plan",
+          "pages": [
+            {
+              "bhk": 3,
+              "page": 1,
+              "super_sqft": 1650,
+              "carpet_sqft": 1240,
+              "bedrooms": [
+                {
+                  "ft": [
+                    11.5,
+                    14.5
+                  ]
+                },
+                {
+                  "ft": [
+                    11.0,
+                    13.0
+                  ]
+                },
+                {
+                  "ft": [
+                    10.5,
+                    12.0
+                  ]
+                }
+              ]
+            },
+            {
+              "bhk": 4,
+              "page": 2,
+              "super_sqft": 2350,
+              "carpet_sqft": 1780,
+              "bedrooms": [
+                {
+                  "ft": [
+                    13.0,
+                    16.5
+                  ]
+                },
+                {
+                  "ft": [
+                    12.0,
+                    14.0
+                  ]
+                },
+                {
+                  "ft": [
+                    11.0,
+                    13.0
+                  ]
+                },
+                {
+                  "ft": [
+                    10.5,
+                    12.0
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "s1005": {
+      "name": "Sage Milestone",
+      "locality": "Raisen Road",
+      "rera_id": "P-BPL-17-0078",
+      "project": "https://rera.mp.gov.in/project_preview/P-BPL-17-0078",
+      "authority": "Madhya Pradesh Real Estate Regulatory Authority (MP-RERA)",
+      "read": [
+        {
+          "doc": "Sage Milestone RERA Sanctioned Drawing",
+          "pages": [
+            {
+              "bhk": 2,
+              "page": 1,
+              "super_sqft": 1050,
+              "carpet_sqft": 795,
+              "bedrooms": [
+                {
+                  "ft": [
+                    10.5,
+                    12.0
+                  ]
+                },
+                {
+                  "ft": [
+                    10.0,
+                    11.0
+                  ]
+                }
+              ]
+            },
+            {
+              "bhk": 3,
+              "page": 2,
+              "super_sqft": 1450,
+              "carpet_sqft": 1100,
+              "bedrooms": [
+                {
+                  "ft": [
+                    11.0,
+                    13.5
+                  ]
+                },
+                {
+                  "ft": [
+                    10.5,
+                    12.0
+                  ]
+                },
+                {
+                  "ft": [
+                    10.0,
+                    11.0
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
