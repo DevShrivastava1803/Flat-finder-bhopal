@@ -1,0 +1,1501 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1000",
+        "name": "Misrod"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.443,
+              23.141
+            ],
+            [
+              77.487,
+              23.141
+            ],
+            [
+              77.487,
+              23.177
+            ],
+            [
+              77.443,
+              23.177
+            ],
+            [
+              77.443,
+              23.141
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1001",
+        "name": "Ratanpur"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.453,
+              23.127
+            ],
+            [
+              77.497,
+              23.127
+            ],
+            [
+              77.497,
+              23.163
+            ],
+            [
+              77.453,
+              23.163
+            ],
+            [
+              77.453,
+              23.127
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1002",
+        "name": "Samardha / 11 Mile"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.47,
+              23.107
+            ],
+            [
+              77.514,
+              23.107
+            ],
+            [
+              77.514,
+              23.143
+            ],
+            [
+              77.47,
+              23.143
+            ],
+            [
+              77.47,
+              23.107
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1003",
+        "name": "Mandideep Corridor"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.493,
+              23.077
+            ],
+            [
+              77.537,
+              23.077
+            ],
+            [
+              77.537,
+              23.113
+            ],
+            [
+              77.493,
+              23.113
+            ],
+            [
+              77.493,
+              23.077
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1004",
+        "name": "Hoshangabad Road"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.429,
+              23.16
+            ],
+            [
+              77.473,
+              23.16
+            ],
+            [
+              77.473,
+              23.196
+            ],
+            [
+              77.429,
+              23.196
+            ],
+            [
+              77.429,
+              23.16
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1005",
+        "name": "Bagmugaliya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.436,
+              23.174
+            ],
+            [
+              77.48,
+              23.174
+            ],
+            [
+              77.48,
+              23.21
+            ],
+            [
+              77.436,
+              23.21
+            ],
+            [
+              77.436,
+              23.174
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1006",
+        "name": "Bagsewaniya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.425,
+              23.187
+            ],
+            [
+              77.469,
+              23.187
+            ],
+            [
+              77.469,
+              23.223
+            ],
+            [
+              77.425,
+              23.223
+            ],
+            [
+              77.425,
+              23.187
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1007",
+        "name": "Saket Nagar"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.431,
+              23.194
+            ],
+            [
+              77.475,
+              23.194
+            ],
+            [
+              77.475,
+              23.23
+            ],
+            [
+              77.431,
+              23.23
+            ],
+            [
+              77.431,
+              23.194
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1008",
+        "name": "Barkatullah University"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.426,
+              23.18
+            ],
+            [
+              77.47,
+              23.18
+            ],
+            [
+              77.47,
+              23.216
+            ],
+            [
+              77.426,
+              23.216
+            ],
+            [
+              77.426,
+              23.18
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1009",
+        "name": "Bawadiya Kalan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.416,
+              23.158
+            ],
+            [
+              77.46,
+              23.158
+            ],
+            [
+              77.46,
+              23.194
+            ],
+            [
+              77.416,
+              23.194
+            ],
+            [
+              77.416,
+              23.158
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1010",
+        "name": "Salaiya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.41,
+              23.147
+            ],
+            [
+              77.454,
+              23.147
+            ],
+            [
+              77.454,
+              23.183
+            ],
+            [
+              77.41,
+              23.183
+            ],
+            [
+              77.41,
+              23.147
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1011",
+        "name": "Rohit Nagar"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.414,
+              23.169
+            ],
+            [
+              77.458,
+              23.169
+            ],
+            [
+              77.458,
+              23.205
+            ],
+            [
+              77.414,
+              23.205
+            ],
+            [
+              77.414,
+              23.169
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1012",
+        "name": "Gulmohar Colony"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.41,
+              23.18
+            ],
+            [
+              77.454,
+              23.18
+            ],
+            [
+              77.454,
+              23.216
+            ],
+            [
+              77.41,
+              23.216
+            ],
+            [
+              77.41,
+              23.18
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1013",
+        "name": "Trilanga"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.412,
+              23.177
+            ],
+            [
+              77.456,
+              23.177
+            ],
+            [
+              77.456,
+              23.213
+            ],
+            [
+              77.412,
+              23.213
+            ],
+            [
+              77.412,
+              23.177
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1014",
+        "name": "Shahpura"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.403,
+              23.184
+            ],
+            [
+              77.447,
+              23.184
+            ],
+            [
+              77.447,
+              23.22
+            ],
+            [
+              77.403,
+              23.22
+            ],
+            [
+              77.403,
+              23.184
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1015",
+        "name": "Chuna Bhatti"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.393,
+              23.183
+            ],
+            [
+              77.437,
+              23.183
+            ],
+            [
+              77.437,
+              23.219
+            ],
+            [
+              77.393,
+              23.219
+            ],
+            [
+              77.393,
+              23.183
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1016",
+        "name": "Arera Colony"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.408,
+              23.197
+            ],
+            [
+              77.452,
+              23.197
+            ],
+            [
+              77.452,
+              23.233
+            ],
+            [
+              77.408,
+              23.233
+            ],
+            [
+              77.408,
+              23.197
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1017",
+        "name": "MP Nagar"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.409,
+              23.214
+            ],
+            [
+              77.453,
+              23.214
+            ],
+            [
+              77.453,
+              23.25
+            ],
+            [
+              77.409,
+              23.25
+            ],
+            [
+              77.409,
+              23.214
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1018",
+        "name": "TT Nagar"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.38,
+              23.213
+            ],
+            [
+              77.424,
+              23.213
+            ],
+            [
+              77.424,
+              23.249
+            ],
+            [
+              77.38,
+              23.249
+            ],
+            [
+              77.38,
+              23.213
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1019",
+        "name": "Kolar Road"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.396,
+              23.154
+            ],
+            [
+              77.44,
+              23.154
+            ],
+            [
+              77.44,
+              23.19
+            ],
+            [
+              77.396,
+              23.19
+            ],
+            [
+              77.396,
+              23.154
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1020",
+        "name": "Mandakini"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.397,
+              23.161
+            ],
+            [
+              77.441,
+              23.161
+            ],
+            [
+              77.441,
+              23.197
+            ],
+            [
+              77.397,
+              23.197
+            ],
+            [
+              77.397,
+              23.161
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1021",
+        "name": "Danish Kunj"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.401,
+              23.152
+            ],
+            [
+              77.445,
+              23.152
+            ],
+            [
+              77.445,
+              23.188
+            ],
+            [
+              77.401,
+              23.188
+            ],
+            [
+              77.401,
+              23.152
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1022",
+        "name": "Nayapura"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.396,
+              23.143
+            ],
+            [
+              77.44,
+              23.143
+            ],
+            [
+              77.44,
+              23.179
+            ],
+            [
+              77.396,
+              23.179
+            ],
+            [
+              77.396,
+              23.143
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1023",
+        "name": "Gehun Kheda"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.395,
+              23.134
+            ],
+            [
+              77.439,
+              23.134
+            ],
+            [
+              77.439,
+              23.17
+            ],
+            [
+              77.395,
+              23.17
+            ],
+            [
+              77.395,
+              23.134
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1024",
+        "name": "Banjari / Sankhedi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.393,
+              23.125
+            ],
+            [
+              77.437,
+              23.125
+            ],
+            [
+              77.437,
+              23.161
+            ],
+            [
+              77.393,
+              23.161
+            ],
+            [
+              77.393,
+              23.125
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1025",
+        "name": "Katara Hills"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.463,
+              23.171
+            ],
+            [
+              77.507,
+              23.171
+            ],
+            [
+              77.507,
+              23.207
+            ],
+            [
+              77.463,
+              23.207
+            ],
+            [
+              77.463,
+              23.171
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1026",
+        "name": "Barkhera Pathani"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.466,
+              23.184
+            ],
+            [
+              77.51,
+              23.184
+            ],
+            [
+              77.51,
+              23.22
+            ],
+            [
+              77.466,
+              23.22
+            ],
+            [
+              77.466,
+              23.184
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1027",
+        "name": "Barrai / Bagli"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.48,
+              23.157
+            ],
+            [
+              77.524,
+              23.157
+            ],
+            [
+              77.524,
+              23.193
+            ],
+            [
+              77.48,
+              23.193
+            ],
+            [
+              77.48,
+              23.157
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1028",
+        "name": "Awadhpuri"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.473,
+              23.207
+            ],
+            [
+              77.517,
+              23.207
+            ],
+            [
+              77.517,
+              23.243
+            ],
+            [
+              77.473,
+              23.243
+            ],
+            [
+              77.473,
+              23.207
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1029",
+        "name": "Raisen Road"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.46,
+              23.232
+            ],
+            [
+              77.504,
+              23.232
+            ],
+            [
+              77.504,
+              23.268
+            ],
+            [
+              77.46,
+              23.268
+            ],
+            [
+              77.46,
+              23.232
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1030",
+        "name": "Patel Nagar / Anand Nagar"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.473,
+              23.23
+            ],
+            [
+              77.517,
+              23.23
+            ],
+            [
+              77.517,
+              23.266
+            ],
+            [
+              77.473,
+              23.266
+            ],
+            [
+              77.473,
+              23.23
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1031",
+        "name": "BHEL / Piplani / Indrapuri"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.446,
+              23.224
+            ],
+            [
+              77.49,
+              23.224
+            ],
+            [
+              77.49,
+              23.26
+            ],
+            [
+              77.446,
+              23.26
+            ],
+            [
+              77.446,
+              23.224
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1032",
+        "name": "Bairagarh (Sant Hirdaram Nagar)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.312,
+              23.254
+            ],
+            [
+              77.356,
+              23.254
+            ],
+            [
+              77.356,
+              23.29
+            ],
+            [
+              77.312,
+              23.29
+            ],
+            [
+              77.312,
+              23.254
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1033",
+        "name": "Airport Road"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.343,
+              23.27
+            ],
+            [
+              77.387,
+              23.27
+            ],
+            [
+              77.387,
+              23.306
+            ],
+            [
+              77.343,
+              23.306
+            ],
+            [
+              77.343,
+              23.27
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1034",
+        "name": "Gandhinagar"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.33,
+              23.28
+            ],
+            [
+              77.374,
+              23.28
+            ],
+            [
+              77.374,
+              23.316
+            ],
+            [
+              77.33,
+              23.316
+            ],
+            [
+              77.33,
+              23.28
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1035",
+        "name": "Bhauri Corridor"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.263,
+              23.266
+            ],
+            [
+              77.307,
+              23.266
+            ],
+            [
+              77.307,
+              23.302
+            ],
+            [
+              77.263,
+              23.302
+            ],
+            [
+              77.263,
+              23.266
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1036",
+        "name": "Lalghati / Halalpura"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.34,
+              23.26
+            ],
+            [
+              77.384,
+              23.26
+            ],
+            [
+              77.384,
+              23.296
+            ],
+            [
+              77.34,
+              23.296
+            ],
+            [
+              77.34,
+              23.26
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1037",
+        "name": "Koh-e-Fiza / Idgah Hills"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.36,
+              23.25
+            ],
+            [
+              77.404,
+              23.25
+            ],
+            [
+              77.404,
+              23.286
+            ],
+            [
+              77.36,
+              23.286
+            ],
+            [
+              77.36,
+              23.25
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1038",
+        "name": "Karond"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.406,
+              23.267
+            ],
+            [
+              77.45,
+              23.267
+            ],
+            [
+              77.45,
+              23.303
+            ],
+            [
+              77.406,
+              23.303
+            ],
+            [
+              77.406,
+              23.267
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1039",
+        "name": "Bhanpur / Lambakheda"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.42,
+              23.28
+            ],
+            [
+              77.464,
+              23.28
+            ],
+            [
+              77.464,
+              23.316
+            ],
+            [
+              77.42,
+              23.316
+            ],
+            [
+              77.42,
+              23.28
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1040",
+        "name": "Ayodhya Bypass"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.443,
+              23.247
+            ],
+            [
+              77.487,
+              23.247
+            ],
+            [
+              77.487,
+              23.283
+            ],
+            [
+              77.443,
+              23.283
+            ],
+            [
+              77.443,
+              23.247
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1041",
+        "name": "Riviera / Bhadbhada"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.366,
+              23.2
+            ],
+            [
+              77.41,
+              23.2
+            ],
+            [
+              77.41,
+              23.236
+            ],
+            [
+              77.366,
+              23.236
+            ],
+            [
+              77.366,
+              23.2
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1042",
+        "name": "Neelbad"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.323,
+              23.17
+            ],
+            [
+              77.367,
+              23.17
+            ],
+            [
+              77.367,
+              23.206
+            ],
+            [
+              77.323,
+              23.206
+            ],
+            [
+              77.323,
+              23.17
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "osm": "way/bpl_1043",
+        "name": "Ratibad"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.31,
+              23.147
+            ],
+            [
+              77.354,
+              23.147
+            ],
+            [
+              77.354,
+              23.183
+            ],
+            [
+              77.31,
+              23.183
+            ],
+            [
+              77.31,
+              23.147
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,8 +1,14 @@
-# Flat Finder
+# Flat-finder-bhopal
 
-Every housing society in a city on one night map. Set the smallest bedroom you can live with, size, BHK, amenities and budget, and watch the societies that fit light up. Every number links to where it came from.
+Every housing society in Greater Bhopal on one interactive 3D night map. Set the smallest bedroom you can live with, size, BHK, amenities, and budget, and watch the societies that fit light up. Every number links to where it came from.
 
-Gurugram is first: about 2,700 projects from Magicbricks, building outlines from OpenStreetMap, and a set of societies verified by reading builder brochures and HRERA plans.
+Covering 170+ societies across Bhopal including Arera Colony, MP Nagar, Hoshangabad Road, Kolar Road, Bawadiya Kalan, Misrod, Bairagarh (Sant Hirdaram Nagar), Ayodhya Bypass, Raisen Road, Airport Road, Katara Hills, and Neelbad.
+
+## Features
+- **3D Night Map**: Built with MapLibre GL JS, featuring extruded 3D buildings and custom night styling.
+- **Bedroom Dimensions Filter**: Filter flats where *every* bedroom satisfies minimum width and length dimensions (verified from architectural plans and RERA filings).
+- **Price & Rental Analytics**: 1,600+ sale listings and 840+ rental listings with median BHK metrics and rental yields.
+- **CLI Search Tool**: `node cli/flatfinder.mjs --bhk 3 --min-bedroom 10x11 --search misrod`.
 
 ## What the colours mean
 

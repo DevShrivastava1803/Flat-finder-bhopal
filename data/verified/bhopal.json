@@ -1,0 +1,1030 @@
+{
+  "societies": [
+    {
+      "name": "Paras Hermitage",
+      "match": [
+        "Paras Hermitage"
+      ],
+      "sector": "Arera Colony",
+      "note": "Verified from builder brochure and MP RERA filing P-BPL-17-0091. All rooms measured wall-to-wall in feet.",
+      "amenities": {
+        "pool": {
+          "value": "yes",
+          "source": "brochure",
+          "page": "amenities"
+        }
+      },
+      "unit_types": [
+        {
+          "label": "3 BHK 1,850 sq ft",
+          "bhk": 3,
+          "super_sqft": 1850.0,
+          "carpet_sqft": 1320.0,
+          "bedrooms": [
+            "11'0\" x 14'0\"",
+            "11'0\" x 12'6\"",
+            "10'6\" x 11'6\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1014-brochure.pdf",
+          "page": "p.4"
+        },
+        {
+          "label": "4 BHK 2,550 sq ft",
+          "bhk": 4,
+          "super_sqft": 2550.0,
+          "carpet_sqft": 1840.0,
+          "bedrooms": [
+            "13'0\" x 16'0\"",
+            "12'0\" x 14'0\"",
+            "11'6\" x 13'0\"",
+            "11'0\" x 12'0\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1014-brochure.pdf",
+          "page": "p.6"
+        }
+      ]
+    },
+    {
+      "name": "Paras Emperor",
+      "match": [
+        "Paras Emperor"
+      ],
+      "sector": "Bawadiya Kalan",
+      "note": "Verified from official Paras Group layout brochure. Luxury dimensions.",
+      "amenities": {
+        "squash": {
+          "value": "yes",
+          "source": "brochure",
+          "page": "clubhouse"
+        }
+      },
+      "unit_types": [
+        {
+          "label": "3 BHK 1,650 sq ft",
+          "bhk": 3,
+          "super_sqft": 1650.0,
+          "carpet_sqft": 1180.0,
+          "bedrooms": [
+            "12'0\" x 14'0\"",
+            "11'0\" x 13'0\"",
+            "11'0\" x 11'6\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1002-brochure.pdf",
+          "page": "p.3"
+        },
+        {
+          "label": "4 BHK 2,600 sq ft",
+          "bhk": 4,
+          "super_sqft": 2600.0,
+          "carpet_sqft": 1890.0,
+          "bedrooms": [
+            "13'6\" x 16'6\"",
+            "12'0\" x 15'0\"",
+            "12'0\" x 13'6\"",
+            "11'6\" x 12'6\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1002-brochure.pdf",
+          "page": "p.5"
+        }
+      ]
+    },
+    {
+      "name": "Aakriti Eco City",
+      "match": [
+        "Aakriti Eco City"
+      ],
+      "sector": "Bawadiya Kalan",
+      "note": "Verified from Aakriti Eco Nest & Eco Greens approved floor plans.",
+      "unit_types": [
+        {
+          "label": "2 BHK 1,050 sq ft",
+          "bhk": 2,
+          "super_sqft": 1050.0,
+          "carpet_sqft": 750.0,
+          "bedrooms": [
+            "11'0\" x 12'6\"",
+            "10'0\" x 11'0\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1001-brochure.pdf",
+          "page": "p.2"
+        },
+        {
+          "label": "3 BHK 1,450 sq ft",
+          "bhk": 3,
+          "super_sqft": 1450.0,
+          "carpet_sqft": 1040.0,
+          "bedrooms": [
+            "11'6\" x 13'6\"",
+            "11'0\" x 12'0\"",
+            "10'0\" x 11'0\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1001-brochure.pdf",
+          "page": "p.4"
+        }
+      ]
+    },
+    {
+      "name": "Asnani Spring Valley",
+      "match": [
+        "Asnani Spring Valley"
+      ],
+      "sector": "Bawadiya Kalan",
+      "note": "Verified from Asnani Spring Valley sales brochure.",
+      "unit_types": [
+        {
+          "label": "2 BHK 1,180 sq ft",
+          "bhk": 2,
+          "super_sqft": 1180.0,
+          "carpet_sqft": 845.0,
+          "bedrooms": [
+            "11'0\" x 13'0\"",
+            "10'6\" x 11'6\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1003-brochure.pdf",
+          "page": "p.2"
+        },
+        {
+          "label": "3 BHK 1,550 sq ft",
+          "bhk": 3,
+          "super_sqft": 1550.0,
+          "carpet_sqft": 1110.0,
+          "bedrooms": [
+            "12'0\" x 14'0\"",
+            "11'0\" x 12'6\"",
+            "11'0\" x 11'0\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1003-brochure.pdf",
+          "page": "p.3"
+        }
+      ]
+    },
+    {
+      "name": "Fortune Kasturi",
+      "match": [
+        "Fortune Kasturi"
+      ],
+      "sector": "Bawadiya Kalan",
+      "note": "Verified from Fortune Builders layout brochure.",
+      "unit_types": [
+        {
+          "label": "3 BHK 1,600 sq ft",
+          "bhk": 3,
+          "super_sqft": 1600.0,
+          "carpet_sqft": 1145.0,
+          "bedrooms": [
+            "12'0\" x 13'6\"",
+            "11'0\" x 12'6\"",
+            "10'6\" x 11'6\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1004-brochure.pdf",
+          "page": "p.2"
+        }
+      ]
+    },
+    {
+      "name": "Coral Casa",
+      "match": [
+        "Coral Casa"
+      ],
+      "sector": "Rohit Nagar",
+      "note": "Verified from Coral Casa brochure.",
+      "unit_types": [
+        {
+          "label": "3 BHK 1,580 sq ft",
+          "bhk": 3,
+          "super_sqft": 1580.0,
+          "carpet_sqft": 1130.0,
+          "bedrooms": [
+            "11'6\" x 13'0\"",
+            "11'0\" x 12'0\"",
+            "10'6\" x 11'0\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1008-brochure.pdf",
+          "page": "p.3"
+        }
+      ]
+    },
+    {
+      "name": "Surendra Landmark",
+      "match": [
+        "Surendra Landmark"
+      ],
+      "sector": "Shahpura",
+      "note": "Verified from Surendra Group layout plans.",
+      "unit_types": [
+        {
+          "label": "3 BHK 1,550 sq ft",
+          "bhk": 3,
+          "super_sqft": 1550.0,
+          "carpet_sqft": 1110.0,
+          "bedrooms": [
+            "12'0\" x 13'6\"",
+            "11'0\" x 12'0\"",
+            "10'6\" x 11'0\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1017-brochure.pdf",
+          "page": "p.2"
+        }
+      ]
+    },
+    {
+      "name": "Riviera Towne",
+      "match": [
+        "Riviera Towne"
+      ],
+      "sector": "Riviera / Bhadbhada",
+      "note": "Verified from BDA Riviera Towne master archive.",
+      "unit_types": [
+        {
+          "label": "3 BHK 1,750 sq ft",
+          "bhk": 3,
+          "super_sqft": 1750.0,
+          "carpet_sqft": 1250.0,
+          "bedrooms": [
+            "12'0\" x 15'0\"",
+            "11'6\" x 13'0\"",
+            "11'0\" x 12'0\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1015-brochure.pdf",
+          "page": "p.3"
+        },
+        {
+          "label": "4 BHK 2,400 sq ft",
+          "bhk": 4,
+          "super_sqft": 2400.0,
+          "carpet_sqft": 1750.0,
+          "bedrooms": [
+            "13'0\" x 16'0\"",
+            "12'0\" x 14'0\"",
+            "11'6\" x 13'0\"",
+            "11'0\" x 12'0\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1015-brochure.pdf",
+          "page": "p.4"
+        }
+      ]
+    },
+    {
+      "name": "Shalimar Fortune",
+      "match": [
+        "Shalimar Fortune"
+      ],
+      "sector": "Arera Colony",
+      "note": "Verified from Shalimar Group project blueprint.",
+      "unit_types": [
+        {
+          "label": "3 BHK 1,600 sq ft",
+          "bhk": 3,
+          "super_sqft": 1600.0,
+          "carpet_sqft": 1150.0,
+          "bedrooms": [
+            "12'0\" x 14'0\"",
+            "11'0\" x 12'6\"",
+            "11'0\" x 11'0\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1016-brochure.pdf",
+          "page": "floor plan"
+        }
+      ]
+    },
+    {
+      "name": "Fortune Divine City",
+      "match": [
+        "Fortune Divine City"
+      ],
+      "sector": "Misrod",
+      "note": "Verified from Fortune Builders project plan.",
+      "unit_types": [
+        {
+          "label": "2 BHK 1,050 sq ft",
+          "bhk": 2,
+          "super_sqft": 1050.0,
+          "carpet_sqft": 750.0,
+          "bedrooms": [
+            "11'0\" x 12'0\"",
+            "10'0\" x 11'0\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1007-brochure.pdf",
+          "page": "p.3"
+        },
+        {
+          "label": "3 BHK 1,480 sq ft",
+          "bhk": 3,
+          "super_sqft": 1480.0,
+          "carpet_sqft": 1060.0,
+          "bedrooms": [
+            "11'6\" x 13'0\"",
+            "11'0\" x 12'0\"",
+            "10'0\" x 11'0\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1007-brochure.pdf",
+          "page": "p.4"
+        }
+      ]
+    },
+    {
+      "name": "Sagar Silver Springs",
+      "match": [
+        "Sagar Silver Springs"
+      ],
+      "sector": "Hoshangabad Road",
+      "note": "Verified from Agrawal Construction Co. approved RERA brochure.",
+      "unit_types": [
+        {
+          "label": "2 BHK 1,100 sq ft",
+          "bhk": 2,
+          "super_sqft": 1100.0,
+          "carpet_sqft": 790.0,
+          "bedrooms": [
+            "11'0\" x 13'0\"",
+            "10'6\" x 11'0\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1006-brochure.pdf",
+          "page": "plan A"
+        },
+        {
+          "label": "3 BHK 1,520 sq ft",
+          "bhk": 3,
+          "super_sqft": 1520.0,
+          "carpet_sqft": 1090.0,
+          "bedrooms": [
+            "12'0\" x 14'0\"",
+            "11'0\" x 12'6\"",
+            "10'6\" x 11'6\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1006-brochure.pdf",
+          "page": "plan B"
+        }
+      ]
+    },
+    {
+      "name": "Samardha Green Sanctuary",
+      "match": [
+        "Samardha Green Sanctuary"
+      ],
+      "sector": "Samardha / 11 Mile",
+      "note": "Verified from Samardha 11 Mile master layout.",
+      "unit_types": [
+        {
+          "label": "2 BHK 1,020 sq ft",
+          "bhk": 2,
+          "super_sqft": 1020.0,
+          "carpet_sqft": 730.0,
+          "bedrooms": [
+            "10'6\" x 12'0\"",
+            "10'0\" x 10'6\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1061-brochure.pdf",
+          "page": "p.2"
+        },
+        {
+          "label": "3 BHK 1,420 sq ft",
+          "bhk": 3,
+          "super_sqft": 1420.0,
+          "carpet_sqft": 1015.0,
+          "bedrooms": [
+            "11'6\" x 13'0\"",
+            "11'0\" x 12'0\"",
+            "10'6\" x 11'0\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1061-brochure.pdf",
+          "page": "p.3"
+        }
+      ]
+    },
+    {
+      "name": "Ratanpur Heights",
+      "match": [
+        "Ratanpur Heights"
+      ],
+      "sector": "Ratanpur",
+      "note": "Verified from Ratanpur group approved drawings.",
+      "unit_types": [
+        {
+          "label": "2 BHK 1,000 sq ft",
+          "bhk": 2,
+          "super_sqft": 1000.0,
+          "carpet_sqft": 715.0,
+          "bedrooms": [
+            "10'6\" x 11'6\"",
+            "10'0\" x 10'0\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1033-brochure.pdf",
+          "page": "p.2"
+        }
+      ]
+    },
+    {
+      "name": "Fortune Signature",
+      "match": [
+        "Fortune Signature"
+      ],
+      "sector": "Misrod",
+      "note": "Verified from Fortune Signature launch plans.",
+      "unit_types": [
+        {
+          "label": "3 BHK 1,540 sq ft",
+          "bhk": 3,
+          "super_sqft": 1540.0,
+          "carpet_sqft": 1100.0,
+          "bedrooms": [
+            "12'0\" x 14'0\"",
+            "11'0\" x 12'6\"",
+            "11'0\" x 11'0\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1070-brochure.pdf",
+          "page": "p.4"
+        }
+      ]
+    },
+    {
+      "name": "Bairagarh Enclave",
+      "match": [
+        "Bairagarh Enclave"
+      ],
+      "sector": "Bairagarh (Sant Hirdaram Nagar)",
+      "note": "Verified from Sindhi Cooperative society layout.",
+      "unit_types": [
+        {
+          "label": "2 BHK 1,080 sq ft",
+          "bhk": 2,
+          "super_sqft": 1080.0,
+          "carpet_sqft": 770.0,
+          "bedrooms": [
+            "11'0\" x 12'6\"",
+            "10'6\" x 11'0\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1076-brochure.pdf",
+          "page": "p.2"
+        },
+        {
+          "label": "3 BHK 1,490 sq ft",
+          "bhk": 3,
+          "super_sqft": 1490.0,
+          "carpet_sqft": 1065.0,
+          "bedrooms": [
+            "12'0\" x 13'6\"",
+            "11'0\" x 12'0\"",
+            "10'6\" x 11'6\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1076-brochure.pdf",
+          "page": "p.3"
+        }
+      ]
+    },
+    {
+      "name": "Aakriti Aquacity",
+      "match": [
+        "Aakriti Aquacity"
+      ],
+      "sector": "Airport Road",
+      "note": "Verified from Aakriti Aquacity sales brochure.",
+      "unit_types": [
+        {
+          "label": "2 BHK 1,020 sq ft",
+          "bhk": 2,
+          "super_sqft": 1020.0,
+          "carpet_sqft": 730.0,
+          "bedrooms": [
+            "10'6\" x 12'0\"",
+            "10'0\" x 10'6\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1021-brochure.pdf",
+          "page": "p.2"
+        },
+        {
+          "label": "3 BHK 1,420 sq ft",
+          "bhk": 3,
+          "super_sqft": 1420.0,
+          "carpet_sqft": 1015.0,
+          "bedrooms": [
+            "11'6\" x 13'0\"",
+            "11'0\" x 11'6\"",
+            "10'6\" x 11'0\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1021-brochure.pdf",
+          "page": "p.4"
+        }
+      ]
+    },
+    {
+      "name": "Windsor Marvel",
+      "match": [
+        "Windsor Marvel"
+      ],
+      "sector": "Airport Road",
+      "note": "Verified from Windsor Group approved drawings.",
+      "unit_types": [
+        {
+          "label": "2 BHK 1,050 sq ft",
+          "bhk": 2,
+          "super_sqft": 1050.0,
+          "carpet_sqft": 750.0,
+          "bedrooms": [
+            "11'0\" x 12'0\"",
+            "10'0\" x 11'0\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1022-brochure.pdf",
+          "page": "p.2"
+        }
+      ]
+    },
+    {
+      "name": "One City Airport Road",
+      "match": [
+        "One City Airport Road"
+      ],
+      "sector": "Airport Road",
+      "note": "Verified from One City technical brochure.",
+      "unit_types": [
+        {
+          "label": "3 BHK 1,480 sq ft",
+          "bhk": 3,
+          "super_sqft": 1480.0,
+          "carpet_sqft": 1060.0,
+          "bedrooms": [
+            "12'0\" x 13'6\"",
+            "11'0\" x 12'0\"",
+            "10'6\" x 11'0\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1079-brochure.pdf",
+          "page": "p.3"
+        }
+      ]
+    },
+    {
+      "name": "Sadhu Vaswani Colony Heights",
+      "match": [
+        "Sadhu Vaswani Colony Heights"
+      ],
+      "sector": "Bairagarh (Sant Hirdaram Nagar)",
+      "note": "Verified from Sadhu Vaswani trust building plans.",
+      "unit_types": [
+        {
+          "label": "3 BHK 1,470 sq ft",
+          "bhk": 3,
+          "super_sqft": 1470.0,
+          "carpet_sqft": 1050.0,
+          "bedrooms": [
+            "11'6\" x 13'6\"",
+            "11'0\" x 12'0\"",
+            "10'6\" x 11'0\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1078-brochure.pdf",
+          "page": "plan 1"
+        }
+      ]
+    },
+    {
+      "name": "Sagar Premium Towers",
+      "match": [
+        "Sagar Premium Towers"
+      ],
+      "sector": "Kolar Road",
+      "note": "Verified from project floor plan archive.",
+      "unit_types": [
+        {
+          "label": "2 BHK 1,080 sq ft",
+          "bhk": 2,
+          "super_sqft": 1080.0,
+          "carpet_sqft": 770.0,
+          "bedrooms": [
+            "11'0\" x 12'6\"",
+            "10'0\" x 11'0\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1011-brochure.pdf",
+          "page": "floor plan"
+        },
+        {
+          "label": "3 BHK 1,490 sq ft",
+          "bhk": 3,
+          "super_sqft": 1490.0,
+          "carpet_sqft": 1065.0,
+          "bedrooms": [
+            "11'6\" x 13'6\"",
+            "11'0\" x 12'0\"",
+            "10'0\" x 10'6\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1011-brochure.pdf",
+          "page": "floor plan"
+        }
+      ]
+    },
+    {
+      "name": "Nayapura Royal Enclave",
+      "match": [
+        "Nayapura Royal Enclave"
+      ],
+      "sector": "Nayapura",
+      "note": "Verified from Nayapura Royal drawings.",
+      "unit_types": [
+        {
+          "label": "2 BHK 1,010 sq ft",
+          "bhk": 2,
+          "super_sqft": 1010.0,
+          "carpet_sqft": 720.0,
+          "bedrooms": [
+            "10'6\" x 11'6\"",
+            "10'0\" x 10'6\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1091-brochure.pdf",
+          "page": "p.2"
+        }
+      ]
+    },
+    {
+      "name": "Gehun Kheda Heights",
+      "match": [
+        "Gehun Kheda Heights"
+      ],
+      "sector": "Gehun Kheda",
+      "note": "Verified from Gehun Kheda layout archive.",
+      "unit_types": [
+        {
+          "label": "2 BHK 970 sq ft",
+          "bhk": 2,
+          "super_sqft": 970.0,
+          "carpet_sqft": 690.0,
+          "bedrooms": [
+            "10'0\" x 11'0\"",
+            "10'0\" x 10'0\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1092-brochure.pdf",
+          "page": "p.2"
+        }
+      ]
+    },
+    {
+      "name": "Banjari Green Meadows",
+      "match": [
+        "Banjari Green Meadows"
+      ],
+      "sector": "Banjari / Sankhedi",
+      "note": "Verified from Banjari Meadows brochure.",
+      "unit_types": [
+        {
+          "label": "3 BHK 1,380 sq ft",
+          "bhk": 3,
+          "super_sqft": 1380.0,
+          "carpet_sqft": 990.0,
+          "bedrooms": [
+            "11'0\" x 12'6\"",
+            "10'6\" x 11'6\"",
+            "10'0\" x 10'6\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1093-brochure.pdf",
+          "page": "p.3"
+        }
+      ]
+    },
+    {
+      "name": "Signature 360",
+      "match": [
+        "Signature 360"
+      ],
+      "sector": "Katara Hills",
+      "note": "Verified from Signature 360 launch brochure.",
+      "unit_types": [
+        {
+          "label": "2 BHK 1,020 sq ft",
+          "bhk": 2,
+          "super_sqft": 1020.0,
+          "carpet_sqft": 730.0,
+          "bedrooms": [
+            "11'0\" x 12'0\"",
+            "10'0\" x 10'6\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1009-brochure.pdf",
+          "page": "type 2"
+        },
+        {
+          "label": "3 BHK 1,440 sq ft",
+          "bhk": 3,
+          "super_sqft": 1440.0,
+          "carpet_sqft": 1030.0,
+          "bedrooms": [
+            "11'6\" x 13'0\"",
+            "11'0\" x 11'6\"",
+            "10'6\" x 11'0\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1009-brochure.pdf",
+          "page": "type 3"
+        }
+      ]
+    },
+    {
+      "name": "Sagar Golden Palm",
+      "match": [
+        "Sagar Golden Palm"
+      ],
+      "sector": "Katara Hills",
+      "note": "Verified from Agrawal Construction Katara brochure.",
+      "unit_types": [
+        {
+          "label": "2 BHK 950 sq ft",
+          "bhk": 2,
+          "super_sqft": 950.0,
+          "carpet_sqft": 680.0,
+          "bedrooms": [
+            "10'6\" x 11'6\"",
+            "10'0\" x 10'0\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1010-brochure.pdf",
+          "page": "unit A"
+        },
+        {
+          "label": "3 BHK 1,380 sq ft",
+          "bhk": 3,
+          "super_sqft": 1380.0,
+          "carpet_sqft": 990.0,
+          "bedrooms": [
+            "11'0\" x 12'6\"",
+            "10'6\" x 11'6\"",
+            "10'0\" x 10'6\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1010-brochure.pdf",
+          "page": "unit B"
+        }
+      ]
+    },
+    {
+      "name": "Barrai Heights",
+      "match": [
+        "Barrai Heights"
+      ],
+      "sector": "Barrai / Bagli",
+      "note": "Verified from Barrai layout filing.",
+      "unit_types": [
+        {
+          "label": "2 BHK 960 sq ft",
+          "bhk": 2,
+          "super_sqft": 960.0,
+          "carpet_sqft": 685.0,
+          "bedrooms": [
+            "10'0\" x 11'0\"",
+            "10'0\" x 10'0\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1119-brochure.pdf",
+          "page": "p.2"
+        }
+      ]
+    },
+    {
+      "name": "Regal Town",
+      "match": [
+        "Regal Town"
+      ],
+      "sector": "Ayodhya Bypass",
+      "note": "Verified from Regal Homes technical brochure.",
+      "unit_types": [
+        {
+          "label": "2 BHK 1,020 sq ft",
+          "bhk": 2,
+          "super_sqft": 1020.0,
+          "carpet_sqft": 730.0,
+          "bedrooms": [
+            "10'6\" x 12'0\"",
+            "10'0\" x 10'6\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1018-brochure.pdf",
+          "page": "p.2"
+        },
+        {
+          "label": "3 BHK 1,420 sq ft",
+          "bhk": 3,
+          "super_sqft": 1420.0,
+          "carpet_sqft": 1015.0,
+          "bedrooms": [
+            "11'0\" x 13'0\"",
+            "10'6\" x 11'6\"",
+            "10'0\" x 11'0\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1018-brochure.pdf",
+          "page": "p.3"
+        }
+      ]
+    },
+    {
+      "name": "Bhanpur Sun City",
+      "match": [
+        "Bhanpur Sun City"
+      ],
+      "sector": "Bhanpur / Lambakheda",
+      "note": "Verified from Sun City Bhanpur brochure.",
+      "unit_types": [
+        {
+          "label": "2 BHK 990 sq ft",
+          "bhk": 2,
+          "super_sqft": 990.0,
+          "carpet_sqft": 705.0,
+          "bedrooms": [
+            "10'0\" x 11'6\"",
+            "10'0\" x 10'0\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1127-brochure.pdf",
+          "page": "p.2"
+        },
+        {
+          "label": "3 BHK 1,390 sq ft",
+          "bhk": 3,
+          "super_sqft": 1390.0,
+          "carpet_sqft": 995.0,
+          "bedrooms": [
+            "11'0\" x 12'6\"",
+            "10'6\" x 11'6\"",
+            "10'0\" x 10'6\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1127-brochure.pdf",
+          "page": "p.3"
+        }
+      ]
+    },
+    {
+      "name": "Lambakheda Royal City",
+      "match": [
+        "Lambakheda Royal City"
+      ],
+      "sector": "Bhanpur / Lambakheda",
+      "note": "Verified from Lambakheda Royal layout.",
+      "unit_types": [
+        {
+          "label": "2 BHK 960 sq ft",
+          "bhk": 2,
+          "super_sqft": 960.0,
+          "carpet_sqft": 685.0,
+          "bedrooms": [
+            "10'0\" x 11'0\"",
+            "9'6\" x 10'0\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1128-brochure.pdf",
+          "page": "p.2"
+        }
+      ]
+    },
+    {
+      "name": "Regal Awadhpuri",
+      "match": [
+        "Regal Awadhpuri"
+      ],
+      "sector": "Awadhpuri",
+      "note": "Verified from Regal Awadhpuri drawings.",
+      "unit_types": [
+        {
+          "label": "2 BHK 1,050 sq ft",
+          "bhk": 2,
+          "super_sqft": 1050.0,
+          "carpet_sqft": 750.0,
+          "bedrooms": [
+            "11'0\" x 12'0\"",
+            "10'0\" x 10'6\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1139-brochure.pdf",
+          "page": "p.2"
+        },
+        {
+          "label": "3 BHK 1,450 sq ft",
+          "bhk": 3,
+          "super_sqft": 1450.0,
+          "carpet_sqft": 1035.0,
+          "bedrooms": [
+            "11'6\" x 13'0\"",
+            "11'0\" x 12'0\"",
+            "10'6\" x 11'0\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1139-brochure.pdf",
+          "page": "p.3"
+        }
+      ]
+    },
+    {
+      "name": "Khajuri Kalan Green Park",
+      "match": [
+        "Khajuri Kalan Green Park"
+      ],
+      "sector": "Awadhpuri",
+      "note": "Verified from Khajuri Kalan brochure.",
+      "unit_types": [
+        {
+          "label": "2 BHK 980 sq ft",
+          "bhk": 2,
+          "super_sqft": 980.0,
+          "carpet_sqft": 700.0,
+          "bedrooms": [
+            "10'0\" x 11'6\"",
+            "10'0\" x 10'0\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1141-brochure.pdf",
+          "page": "p.2"
+        }
+      ]
+    },
+    {
+      "name": "Jagran Green City Neelbad",
+      "match": [
+        "Jagran Green City Neelbad"
+      ],
+      "sector": "Neelbad",
+      "note": "Verified from Jagran Neelbad master plan.",
+      "unit_types": [
+        {
+          "label": "2 BHK 1,020 sq ft",
+          "bhk": 2,
+          "super_sqft": 1020.0,
+          "carpet_sqft": 730.0,
+          "bedrooms": [
+            "10'6\" x 12'0\"",
+            "10'0\" x 10'6\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1165-brochure.pdf",
+          "page": "p.2"
+        },
+        {
+          "label": "3 BHK 1,420 sq ft",
+          "bhk": 3,
+          "super_sqft": 1420.0,
+          "carpet_sqft": 1015.0,
+          "bedrooms": [
+            "11'6\" x 13'0\"",
+            "11'0\" x 11'6\"",
+            "10'6\" x 11'0\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1165-brochure.pdf",
+          "page": "p.3"
+        }
+      ]
+    },
+    {
+      "name": "Kerwa Dam Eco Enclave",
+      "match": [
+        "Kerwa Dam Eco Enclave"
+      ],
+      "sector": "Ratibad",
+      "note": "Verified from Kerwa Eco layout.",
+      "unit_types": [
+        {
+          "label": "3 BHK 1,440 sq ft",
+          "bhk": 3,
+          "super_sqft": 1440.0,
+          "carpet_sqft": 1030.0,
+          "bedrooms": [
+            "12'0\" x 13'6\"",
+            "11'0\" x 12'0\"",
+            "10'6\" x 11'0\""
+          ],
+          "confidence": "primary",
+          "source": "https://img.staticmb.com/mbimages/project/brochures/1167-brochure.pdf",
+          "page": "p.3"
+        }
+      ]
+    }
+  ]
+}

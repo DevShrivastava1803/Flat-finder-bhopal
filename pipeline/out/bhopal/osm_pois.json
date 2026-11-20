@@ -1,0 +1,380 @@
+[
+  {
+    "k": "shopping",
+    "name": "DB City Mall (MP Nagar)",
+    "lat": 23.233,
+    "lng": 77.4332
+  },
+  {
+    "k": "shopping",
+    "name": "Aashima Anupama Mall (Hoshangabad Rd)",
+    "lat": 23.1845,
+    "lng": 77.447
+  },
+  {
+    "k": "shopping",
+    "name": "C21 Mall (Hoshangabad Rd)",
+    "lat": 23.1905,
+    "lng": 77.443
+  },
+  {
+    "k": "shopping",
+    "name": "Aura Mall (Trilanga / Arera)",
+    "lat": 23.195,
+    "lng": 77.435
+  },
+  {
+    "k": "shopping",
+    "name": "Bhopal New Market (TT Nagar)",
+    "lat": 23.232,
+    "lng": 77.402
+  },
+  {
+    "k": "shopping",
+    "name": "10 No. Market (E-4 Arera Colony)",
+    "lat": 23.218,
+    "lng": 77.431
+  },
+  {
+    "k": "shopping",
+    "name": "Bittan Market (E-5 Arera Colony)",
+    "lat": 23.214,
+    "lng": 77.423
+  },
+  {
+    "k": "shopping",
+    "name": "Capital Mall (Misrod)",
+    "lat": 23.159,
+    "lng": 77.465
+  },
+  {
+    "k": "shopping",
+    "name": "Bairagarh Main Cloth Market (Sant Hirdaram Nagar)",
+    "lat": 23.273,
+    "lng": 77.332
+  },
+  {
+    "k": "shopping",
+    "name": "Kolar Main Market (Sarvadharam)",
+    "lat": 23.18,
+    "lng": 77.419
+  },
+  {
+    "k": "shopping",
+    "name": "Bawadiya Kalan Market",
+    "lat": 23.1795,
+    "lng": 77.436
+  },
+  {
+    "k": "shopping",
+    "name": "Minal Shopping Mall (JK Road)",
+    "lat": 23.255,
+    "lng": 77.468
+  },
+  {
+    "k": "shopping",
+    "name": "Indrapuri C-Sector Market",
+    "lat": 23.243,
+    "lng": 77.472
+  },
+  {
+    "k": "hospital",
+    "name": "AIIMS Bhopal (Saket Nagar)",
+    "lat": 23.2078,
+    "lng": 77.4608
+  },
+  {
+    "k": "hospital",
+    "name": "Bansal Hospital (Shahpura)",
+    "lat": 23.197,
+    "lng": 77.4335
+  },
+  {
+    "k": "hospital",
+    "name": "Narmada Trauma Centre (Arera Colony)",
+    "lat": 23.2185,
+    "lng": 77.433
+  },
+  {
+    "k": "hospital",
+    "name": "Hamidia Hospital (Royal Market)",
+    "lat": 23.262,
+    "lng": 77.395
+  },
+  {
+    "k": "hospital",
+    "name": "Chirayu Health City (Bairagarh / Bhadbhada Bypass)",
+    "lat": 23.275,
+    "lng": 77.315
+  },
+  {
+    "k": "hospital",
+    "name": "Sewa Sadan Eye & Multi Hospital (Bairagarh)",
+    "lat": 23.271,
+    "lng": 77.336
+  },
+  {
+    "k": "hospital",
+    "name": "Noble Multi Speciality Hospital (Misrod)",
+    "lat": 23.189,
+    "lng": 77.449
+  },
+  {
+    "k": "hospital",
+    "name": "JK Hospital & Medical College (Kolar)",
+    "lat": 23.167,
+    "lng": 77.416
+  },
+  {
+    "k": "hospital",
+    "name": "Citi Hospital (Kolar Road)",
+    "lat": 23.186,
+    "lng": 77.418
+  },
+  {
+    "k": "hospital",
+    "name": "BMHRC (Bhopal Memorial Hospital & Research Centre, Karond)",
+    "lat": 23.298,
+    "lng": 77.422
+  },
+  {
+    "k": "hospital",
+    "name": "Kasturba Hospital (BHEL)",
+    "lat": 23.235,
+    "lng": 77.462
+  },
+  {
+    "k": "rail",
+    "name": "Rani Kamlapati Railway Station (RKMP)",
+    "lat": 23.2033,
+    "lng": 77.4385
+  },
+  {
+    "k": "rail",
+    "name": "Bhopal Junction Railway Station",
+    "lat": 23.268,
+    "lng": 77.4107
+  },
+  {
+    "k": "rail",
+    "name": "Sant Hirdaram Nagar (Bairagarh) Railway Station",
+    "lat": 23.269,
+    "lng": 77.338
+  },
+  {
+    "k": "rail",
+    "name": "Misrod Railway Station",
+    "lat": 23.155,
+    "lng": 77.471
+  },
+  {
+    "k": "rail",
+    "name": "Mandideep Railway Station",
+    "lat": 23.098,
+    "lng": 77.518
+  },
+  {
+    "k": "metro",
+    "name": "Subhash Nagar Metro Station",
+    "lat": 23.2385,
+    "lng": 77.437
+  },
+  {
+    "k": "metro",
+    "name": "AIIMS Metro Station",
+    "lat": 23.2085,
+    "lng": 77.458
+  },
+  {
+    "k": "metro",
+    "name": "Kendriya Vidyalaya Metro Station",
+    "lat": 23.23,
+    "lng": 77.439
+  },
+  {
+    "k": "metro",
+    "name": "Board Office Metro Station (MP Nagar)",
+    "lat": 23.234,
+    "lng": 77.432
+  },
+  {
+    "k": "metro",
+    "name": "DRM Office Metro Station",
+    "lat": 23.219,
+    "lng": 77.442
+  },
+  {
+    "k": "metro",
+    "name": "Rani Kamlapati Metro Station",
+    "lat": 23.204,
+    "lng": 77.439
+  },
+  {
+    "k": "rail",
+    "name": "Raja Bhoj International Airport",
+    "lat": 23.2875,
+    "lng": 77.3378
+  },
+  {
+    "k": "rail",
+    "name": "Kushabhau Thakre ISBT (Habibganj)",
+    "lat": 23.217,
+    "lng": 77.446
+  },
+  {
+    "k": "rail",
+    "name": "Halalpura Inter-State Bus Stand",
+    "lat": 23.272,
+    "lng": 77.345
+  },
+  {
+    "k": "rail",
+    "name": "Nadra Bus Stand (Station)",
+    "lat": 23.265,
+    "lng": 77.408
+  },
+  {
+    "k": "park",
+    "name": "Ekant Park (Shahpura)",
+    "lat": 23.215,
+    "lng": 77.426
+  },
+  {
+    "k": "park",
+    "name": "Chinar Park (Link Road 1)",
+    "lat": 23.228,
+    "lng": 77.432
+  },
+  {
+    "k": "park",
+    "name": "Mayur Park",
+    "lat": 23.235,
+    "lng": 77.428
+  },
+  {
+    "k": "park",
+    "name": "Kamla Nehru Park (Bhadbhada)",
+    "lat": 23.216,
+    "lng": 77.387
+  },
+  {
+    "k": "park",
+    "name": "Sheetal Das Ki Bagiya (VIP Road / Upper Lake)",
+    "lat": 23.251,
+    "lng": 77.388
+  },
+  {
+    "k": "park",
+    "name": "Vardan Park (Kolar)",
+    "lat": 23.181,
+    "lng": 77.419
+  },
+  {
+    "k": "park",
+    "name": "Shahpura Lake Promenade Park",
+    "lat": 23.201,
+    "lng": 77.429
+  },
+  {
+    "k": "park",
+    "name": "Sagar Park (Bawadiya Kalan)",
+    "lat": 23.179,
+    "lng": 77.437
+  },
+  {
+    "k": "park",
+    "name": "Swarna Jayanti Park (Kolar)",
+    "lat": 23.188,
+    "lng": 77.417
+  },
+  {
+    "k": "park",
+    "name": "Sair Sapata Tourism Park (Prempura)",
+    "lat": 23.214,
+    "lng": 77.375
+  },
+  {
+    "k": "park",
+    "name": "Kerwa Dam Eco Park",
+    "lat": 23.161,
+    "lng": 77.362
+  },
+  {
+    "k": "park",
+    "name": "Kaliyasot Dam Promenade",
+    "lat": 23.185,
+    "lng": 77.391
+  },
+  {
+    "k": "school",
+    "name": "Campion School (Arera Colony)",
+    "lat": 23.2175,
+    "lng": 77.4285
+  },
+  {
+    "k": "school",
+    "name": "St. Joseph Co-Ed School (E-6 Arera)",
+    "lat": 23.212,
+    "lng": 77.435
+  },
+  {
+    "k": "school",
+    "name": "Delhi Public School (DPS) Kolar",
+    "lat": 23.175,
+    "lng": 77.395
+  },
+  {
+    "k": "school",
+    "name": "Delhi Public School (DPS) Neelbad",
+    "lat": 23.192,
+    "lng": 77.352
+  },
+  {
+    "k": "school",
+    "name": "Sagar Public School (SPS) Rohit Nagar",
+    "lat": 23.194,
+    "lng": 77.439
+  },
+  {
+    "k": "school",
+    "name": "Sagar Public School (SPS) Saket Nagar",
+    "lat": 23.215,
+    "lng": 77.456
+  },
+  {
+    "k": "school",
+    "name": "Sagar Public School (SPS) Gandhi Nagar / Airport Rd",
+    "lat": 23.298,
+    "lng": 77.358
+  },
+  {
+    "k": "school",
+    "name": "Billabong High International School",
+    "lat": 23.183,
+    "lng": 77.388
+  },
+  {
+    "k": "school",
+    "name": "Carmel Convent Sr. Sec. School (BHEL)",
+    "lat": 23.242,
+    "lng": 77.439
+  },
+  {
+    "k": "school",
+    "name": "St. Xavier Senior Secondary School",
+    "lat": 23.248,
+    "lng": 77.458
+  },
+  {
+    "k": "school",
+    "name": "Sadhu Vaswani College (Bairagarh)",
+    "lat": 23.272,
+    "lng": 77.334
+  },
+  {
+    "k": "school",
+    "name": "IISER Bhopal (Bhauri)",
+    "lat": 23.284,
+    "lng": 77.275
+  }
+]
