@@ -7,7 +7,7 @@ import { AMENITY_KEYS, DEFAULT_CRITERIA, NEAR, RANK, feetLabel, formatINR, match
 
 const $ = (id) => document.getElementById(id);
 const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
-const mobile = matchMedia('(max-width: 700px)').matches;
+const isMobile = () => matchMedia('(max-width: 768px)').matches;
 const REPO = 'https://github.com/kairothq/flat-finder';
 const params = new URLSearchParams(location.search);
 const store = { // localStorage can be missing or blocked: never let it break the page
@@ -40,6 +40,7 @@ async function boot() {
     fetch(`/data/${cityId}.json`).then((r) => r.json()),
     fetch(`/data/${cityId}-shapes.geojson`).then((r) => r.json()),
   ]);
+  loadDetails(); // Pre-fetch details in the background so descriptions are ready instantly!
   data = city;
   OVERVIEW.center = city.city.center;
   OVERVIEW.zoom = city.city.zoom || OVERVIEW.zoom;
@@ -68,7 +69,7 @@ async function boot() {
   buildMobile();
   hintTilt();
   try {
-    map = createMap('map', { mobile });
+    map = createMap('map', { mobile: isMobile() });
     window.__map = map; // handy for debugging in the console
   } catch {
     $('note').textContent = 'Your browser could not start WebGL, so the 3D map is off. Filters and results still work.';
@@ -86,8 +87,13 @@ async function boot() {
     startPulse(map);
     // any hand on the map stops a running tour
     for (const ev of ['dragstart', 'wheel', 'touchstart']) map.on(ev, (e) => { if (e.originalEvent) stopTour(); });
-    for (const l of ['bld', 'site-fill', 'glow']) {
-      map.on('click', l, (e) => { stopTour(); openSociety(e.features[0].properties.sid); });
+    for (const l of ['bld', 'site-fill', 'glow', 'labels', 'site-line']) {
+      map.on('click', l, (e) => {
+        const sid = e.features?.[0]?.properties?.sid;
+        if (!sid) return;
+        stopTour();
+        openSociety(sid);
+      });
       map.on('mouseenter', l, () => (map.getCanvas().style.cursor = 'pointer'));
       map.on('mouseleave', l, () => (map.getCanvas().style.cursor = ''));
     }
@@ -104,8 +110,8 @@ function intro() {
     setTimeout(() => openSociety(params.get('open')), 300);
     return;
   }
-  if (mobile || params.has('nointro')) {
-    if (!mobile) map.jumpTo(OVERVIEW);
+  if (isMobile() || params.has('nointro')) {
+    if (!isMobile()) map.jumpTo(OVERVIEW);
     applyFilters(true);
     feed.ambient();
     return;
@@ -346,10 +352,11 @@ function openSociety(sid, { fly = true } = {}) {
   if (!s) return;
   if (map) setSelected(map, sid, selected);
   selected = sid;
-  if (fly && map) map.flyTo({ center: [s.lng, s.lat], zoom: mobile ? 15.4 : 16.2, pitch: is3d ? 55 : 0, bearing: 0, duration: 2600, essential: true,
-    offset: mobile ? [0, -80] : [-180, 0] });
+  const mob = isMobile();
+  if (fly && map) map.flyTo({ center: [s.lng, s.lat], zoom: mob ? 15.4 : 16.2, pitch: is3d ? 55 : 0, bearing: 0, duration: 2600, essential: true,
+    offset: mob ? [0, -80] : [-180, 0] });
   document.body.classList.add('has-card');
-  if (mobile) showMobile('society');
+  if (mob) showMobile('society');
   renderCard(s);
   feed.play(sid);
 }
@@ -357,7 +364,7 @@ function openSociety(sid, { fly = true } = {}) {
 function closeCard() {
   $('card').hidden = true;
   document.body.classList.remove('has-card');
-  if (mobile) showMobile('search');
+  if (isMobile()) showMobile('search');
   if (map && selected) setSelected(map, null, selected);
   selected = null;
   feed?.ambient();
@@ -406,7 +413,7 @@ function renderCard(s) {
   const ratingBars = d && Object.keys(d.ratings || {}).length ? `<div class="bars">${Object.entries(d.ratings).map(([k, v]) => `<div><span>${esc(k)}</span><i style="--w:${(v / 5) * 100}%"></i><b>${v}</b></div>`).join('')}</div>` : '';
   const reviews = d?.reviews?.length ? `<div class="reviews">${d.reviews.slice(0, 3).map((r) => `<blockquote>${esc(r.text)}<cite>${esc(r.by || 'Resident')}${r.date ? ' · ' + esc(r.date) : ''}</cite></blockquote>`).join('')}</div>` : '';
   const trend = d?.trend?.length > 1 ? sparkline(d.trend) : '';
-  const about = d?.description ? `<details><summary>About this project</summary><p class="fine">${esc(d.description)}</p></details>` : '';
+  const about = d?.description ? `<details open><summary>About this project</summary><p class="fine">${esc(d.description)}</p></details>` : '';
   const inList = myList.includes(s.id);
   const photos = d?.images?.length ? `<div class="photos">${d.images.map((im) => `<a href="${esc(im.full)}" target="_blank" rel="noopener"><img src="${esc(im.thumb)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentElement.remove()"></a>`).join('')}</div><div class="fine">Photos: Magicbricks, opens full size</div>` : '';
   $('card').innerHTML = `
@@ -440,6 +447,7 @@ function renderCard(s) {
     </div>
     <div class="fine">${s.rera_id ? 'RERA ' + esc(s.rera_id) + ' · ' : ''}${s.shape === 'osm' ? 'Buildings from OpenStreetMap' : s.shape === 'osm-site' ? 'Boundary from OpenStreetMap, towers drawn approximately' : 'Approximate shape: towers drawn from the listed tower count'}</div>`;
   $('card').hidden = false;
+  $('card').scrollTop = 0;
   $('c-close').onclick = () => { stopTour(); closeCard(); };
   $('c-star').onclick = () => { toggle(myList, s.id); saveList(); renderCard(s); renderResults(); };
   if (!details) loadDetails().then(() => { if (selected === s.id) renderCard(s); });
@@ -519,7 +527,7 @@ function buildList() {
     if (map && myList.length) {
       const pts = myList.map((id) => byId.get(id));
       const b = pts.reduce((bb, s) => bb.extend([s.lng, s.lat]), new maplibregl.LngLatBounds([pts[0].lng, pts[0].lat], [pts[0].lng, pts[0].lat]));
-      map.fitBounds(b, { padding: { top: 80, bottom: 80, left: mobile ? 40 : 380, right: mobile ? 40 : 460 }, maxZoom: 15, bearing: 0 });
+      map.fitBounds(b, { padding: { top: 80, bottom: 80, left: isMobile() ? 40 : 380, right: isMobile() ? 40 : 460 }, maxZoom: 15, bearing: 0 });
     }
   };
   $('btn-share').onclick = async () => {
@@ -639,27 +647,31 @@ function buildSearch() {
       const li = document.createElement('li');
       li.className = i === active ? 'on' : '';
       li.innerHTML = `<span>${esc(s.name)}</span><span class="tag ${states.get(s.id)}">${esc(s.locality || '')}${s.verified ? ' · verified' : ''}</span><button class="iconbtn star ${myList.includes(s.id) ? 'on' : ''}" title="Add to my list">${myList.includes(s.id) ? '★' : '☆'}</button>`;
-      li.onmousedown = (e) => {
+      const pickItem = (e) => {
         e.preventDefault();
         if (e.target.closest('.star')) { toggle(myList, s.id); saveList(); renderResults(); render(); return; }
         pick(s);
       };
+      li.onpointerdown = pickItem;
+      li.onclick = pickItem;
       return li;
     });
     if (all.length > 1) {
       const li = document.createElement('li');
       li.className = 'showall';
       li.innerHTML = `<span>Show all ${all.length} matching "${esc(input.value.trim())}" on the map</span>`;
-      li.onmousedown = (e) => { e.preventDefault(); setQuery(input.value.trim()); close(); input.blur(); };
+      const pickShowAll = (e) => { e.preventDefault(); setQuery(input.value.trim()); close(); input.blur(); };
+      li.onpointerdown = pickShowAll;
+      li.onclick = pickShowAll;
       rows.unshift(li);
     }
     list.replaceChildren(...rows);
     list.hidden = false;
   };
-  const pick = (s) => { stopTour(); input.value = s.name; close(); input.blur(); if (mobile) window.scrollTo(0, 0); openSociety(s.id); };
+  const pick = (s) => { stopTour(); input.value = s.name; close(); input.blur(); if (isMobile()) window.scrollTo(0, 0); openSociety(s.id); };
   input.oninput = () => { active = -1; render(); };
   input.onfocus = render;
-  input.onblur = close;
+  input.onblur = () => { setTimeout(close, 200); };
   input.onkeydown = (e) => {
     if (e.key === 'ArrowDown' || e.key === 'ArrowUp') {
       e.preventDefault();
@@ -684,7 +696,7 @@ function setQuery(q) {
     const hits = data.societies.filter((s) => states.get(s.id) !== 'no');
     if (hits.length) {
       const b = hits.reduce((bb, s) => bb.extend([s.lng, s.lat]), new maplibregl.LngLatBounds([hits[0].lng, hits[0].lat], [hits[0].lng, hits[0].lat]));
-      map.fitBounds(b, { padding: { top: 80, bottom: 80, left: mobile ? 40 : 380, right: mobile ? 40 : 460 }, maxZoom: 15, bearing: 0 });
+      map.fitBounds(b, { padding: { top: 80, bottom: 80, left: isMobile() ? 40 : 380, right: isMobile() ? 40 : 460 }, maxZoom: 15, bearing: 0 });
     }
   }
 }

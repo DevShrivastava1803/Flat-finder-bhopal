@@ -20,6 +20,7 @@ export function createMap(container, { mobile }) {
     dragRotate: false,      // north stays up, like Google Maps
     pitchWithRotate: false,
     touchPitch: false,
+    clickTolerance: 8,
     style: {
       version: 8,
       projection: { type: 'globe' },

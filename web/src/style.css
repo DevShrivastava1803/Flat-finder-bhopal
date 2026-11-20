@@ -215,7 +215,7 @@ body[data-base=light] .maplibregl-ctrl-scale, body[data-base=light] .maplibregl-
 .toast { position: fixed; left: 50%; bottom: 40px; transform: translateX(-50%); z-index: 30; background: var(--glass-strong); border: 1px solid var(--accent); padding: 9px 16px; border-radius: 20px; font-size: 12.5px; box-shadow: var(--shadow); }
 
 /* phone */
-@media (max-width: 700px) {
+@media (max-width: 768px) {
   :root { --gap: 0px; }
   .right, #btn-hide, #btn-log, #btn-replay, .note { display: none !important; }
   .topbar { top: auto; bottom: calc(46vh + 12px); }
@@ -227,7 +227,7 @@ body[data-base=light] .maplibregl-ctrl-scale, body[data-base=light] .maplibregl-
   #ctl-home { display: none; }
   .maplibregl-ctrl-bottom-right { right: 0 !important; bottom: 46vh !important; }
 }
-@media (max-width: 700px) { body.has-card .controls, body.has-card .topbar { display: none; } }
+@media (max-width: 768px) { body.has-card .controls, body.has-card .topbar { display: none; } }
 .layer-menu .hl { display: flex; flex-direction: column; justify-content: center; gap: 6px; padding-left: 10px; margin-left: 2px; border-left: 1px solid var(--line); }
 .layer-menu .hl .sw { font-size: 11.5px; white-space: nowrap; }
 .topbar button.live { border-color: var(--accent); color: var(--accent); }
@@ -261,7 +261,7 @@ body[data-base=light] .maplibregl-ctrl-scale, body[data-base=light] .maplibregl-
 
 /* phone: tabs above one bottom sheet */
 .mtabs, .mobile-only { display: none !important; }
-@media (max-width: 700px) {
+@media (max-width: 768px) {
   .mobile-only { display: inline-flex !important; }
   #btn-tour, #btn-guide { display: none !important; }
   .mtabs { display: flex !important; position: absolute; z-index: 4; left: 0; right: 0; bottom: 46vh; padding: 8px 10px 0; gap: 6px; align-items: flex-end; }
@@ -292,14 +292,14 @@ body[data-base=light] .maplibregl-ctrl-scale, body[data-base=light] .maplibregl-
 /* map buttons stay left of the society panel even when the research log is hidden */
 body.has-card .controls { right: calc(var(--right-w) + var(--gap) * 2); }
 body.has-card .maplibregl-ctrl-bottom-right { right: calc(var(--right-w) + var(--gap) * 2 + 50px) !important; }
-@media (max-width: 700px) {
+@media (max-width: 768px) {
   /* iPhone zooms into any text box under 16px: keep inputs at 16px so the page never jumps */
   input, select, textarea { font-size: 16px !important; }
   .search kbd { display: none; }
   .search ol { max-height: 34vh; }
   body.has-card .controls { right: 10px; }
 }
-@media (max-width: 700px) { #city-pick { font-size: 11px !important; } .search ol { background: var(--bg); } }
+@media (max-width: 768px) { #city-pick { font-size: 11px !important; } .search ol { background: var(--bg); } }
 
 .prices .flagged { color: var(--muted); text-decoration: line-through dotted; }
 .flag-note { color: var(--likely); }
