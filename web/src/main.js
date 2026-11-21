@@ -48,6 +48,7 @@ async function boot() {
   document.title = `Flat Finder · ${city.city.name}`;
   $('city-pick').replaceChildren(...Object.entries(cities).map(([id, c]) => new Option(c.name, id, false, id === cityId)));
   $('city-pick').onchange = () => { location.search = `?city=${$('city-pick').value}`; };
+  if ($('preset-divy')) $('preset-divy').textContent = `Featured ${city.city.name} search`;
 
   const freq = new Map();
   for (const s of city.societies) for (const a of s.amenities) freq.set(a, (freq.get(a) || 0) + 1);
@@ -245,6 +246,7 @@ function buildFilters() {
   $('amen-q').oninput = amenList;
   $('f-ready').onchange = () => { crit.ready = $('f-ready').checked; applyFilters(); };
   $('f-sort').onchange = () => { sortBy = $('f-sort').value; renderResults(); };
+  if ($('preset-divy') && data?.city?.name) $('preset-divy').textContent = `Featured ${data.city.name} search`;
   $('preset-divy').onclick = () => useCriteria(DIVY);
   $('btn-replay').onclick = intro;
   $('btn-tour').onclick = tour;
